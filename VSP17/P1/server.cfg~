@@ -1,0 +1,6 @@
+{latency, 10}.
+{clientlifetime,4}.
+{servername, wk}.
+{hbqname, hbq}.
+{hbqnode, 'hbq@lab23'}.
+{dlqlimit, 50}.

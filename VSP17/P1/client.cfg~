@@ -1,0 +1,6 @@
+{clients, 25}.
+{lifetime, 120}.
+{servername, wk}.
+{servernode, 'server@lab23.cpt.haw-hamburg.de'}.
+{servernode2, 'server@lab22.cpt.haw-hamburg.de'}.
+{sendeintervall, 4}.

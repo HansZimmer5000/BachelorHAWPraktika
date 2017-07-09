@@ -1,0 +1,902 @@
+"22.04 10:54:07,954|" loop_redakteur hat status: start. 
+"22.04 10:54:07,954|" getmsgid hat status: started. 
+"22.04 10:54:07,986|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:11,995|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:11,995|" handle_new_id hat status: 16te Nachricht erstellt. 
+"22.04 10:54:11,995|" write_new_message hat status: started. 
+"22.04 10:54:11,995|" drop_message hat status: started. 
+"22.04 10:54:12,010|" loop_redakteur hat status: start. 
+"22.04 10:54:12,010|" getmsgid hat status: started. 
+"22.04 10:54:12,790|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:16,800|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:16,800|" handle_new_id hat status: 46te Nachricht erstellt. 
+"22.04 10:54:16,800|" write_new_message hat status: started. 
+"22.04 10:54:16,800|" drop_message hat status: started. 
+"22.04 10:54:16,800|" loop_redakteur hat status: start. 
+"22.04 10:54:16,800|" getmsgid hat status: started. 
+"22.04 10:54:17,189|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:21,199|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:21,199|" handle_new_id hat status: 73te Nachricht erstellt. 
+"22.04 10:54:21,199|" write_new_message hat status: started. 
+"22.04 10:54:21,199|" drop_message hat status: started. 
+"22.04 10:54:21,199|" loop_redakteur hat status: start. 
+"22.04 10:54:21,199|" getmsgid hat status: started. 
+"22.04 10:54:21,324|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:25,333|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:25,333|" handle_new_id hat status: 98te Nachricht erstellt. 
+"22.04 10:54:25,333|" write_new_message hat status: started. 
+"22.04 10:54:25,333|" drop_message hat status: started. 
+"22.04 10:54:25,333|" loop_redakteur hat status: start. 
+"22.04 10:54:25,333|" getmsgid hat status: started. 
+"22.04 10:54:25,379|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:29,389|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:29,389|" handle_new_id hat status: 123te Nachricht erstellt. 
+"22.04 10:54:29,389|" write_new_message hat status: started. 
+"22.04 10:54:29,389|" drop_message hat status: started. 
+"22.04 10:54:29,389|" loop_redakteur hat status: start. 
+"22.04 10:54:29,389|" getmsgid hat status: started. 
+"22.04 10:54:29,451|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:33,460|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:33,460|" loop_redakteur hat status: Wechsel zu Leser, Nachrichtnummer: 148 'vergessen' zu senden. 
+"22.04 10:54:33,460|" calcNewIntervall hat status: started. 
+"22.04 10:54:33,460|" calcNewIntervall hat status: New: 3. 
+"22.04 10:54:33,460|" calcNewIntervall hat status: Result: 3. 
+"22.04 10:54:33,460|" loop_leser hat status: start. 
+"22.04 10:54:33,460|" getmessage hat status: started. 
+"22.04 10:54:34,069|" loop_leser hat status: Future: true [68,105,102,102,101,114,101,110,122,58,32,
+              [123,["0",44,"0",44,"-1000"],125]]// Received MessageNummer: 26, Termi: true. 
+"22.04 10:54:34,069|" loop_leser hat status: Wechsel zu Redakteur. 
+"22.04 10:54:34,069|" loop_redakteur hat status: start. 
+"22.04 10:54:34,069|" getmsgid hat status: started. 
+"22.04 10:54:34,786|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:34,802|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:34,802|" handle_new_id hat status: 207te Nachricht erstellt. 
+"22.04 10:54:34,802|" write_new_message hat status: started. 
+"22.04 10:54:34,802|" drop_message hat status: started. 
+"22.04 10:54:34,802|" loop_redakteur hat status: start. 
+"22.04 10:54:34,802|" getmsgid hat status: started. 
+"22.04 10:54:35,504|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:35,520|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:35,520|" handle_new_id hat status: 230te Nachricht erstellt. 
+"22.04 10:54:35,520|" write_new_message hat status: started. 
+"22.04 10:54:35,520|" drop_message hat status: started. 
+"22.04 10:54:35,520|" loop_redakteur hat status: start. 
+"22.04 10:54:35,520|" getmsgid hat status: started. 
+"22.04 10:54:36,284|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:36,300|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:36,300|" handle_new_id hat status: 251te Nachricht erstellt. 
+"22.04 10:54:36,300|" write_new_message hat status: started. 
+"22.04 10:54:36,300|" drop_message hat status: started. 
+"22.04 10:54:36,300|" loop_redakteur hat status: start. 
+"22.04 10:54:36,300|" getmsgid hat status: started. 
+"22.04 10:54:36,986|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:37,002|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:37,002|" handle_new_id hat status: 272te Nachricht erstellt. 
+"22.04 10:54:37,002|" write_new_message hat status: started. 
+"22.04 10:54:37,002|" drop_message hat status: started. 
+"22.04 10:54:37,002|" loop_redakteur hat status: start. 
+"22.04 10:54:37,002|" getmsgid hat status: started. 
+"22.04 10:54:37,657|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:37,672|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:37,672|" handle_new_id hat status: 295te Nachricht erstellt. 
+"22.04 10:54:37,672|" write_new_message hat status: started. 
+"22.04 10:54:37,672|" drop_message hat status: started. 
+"22.04 10:54:37,672|" loop_redakteur hat status: start. 
+"22.04 10:54:37,672|" getmsgid hat status: started. 
+"22.04 10:54:38,608|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:38,624|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:38,624|" loop_redakteur hat status: Wechsel zu Leser, Nachrichtnummer: 317 'vergessen' zu senden. 
+"22.04 10:54:38,624|" calcNewIntervall hat status: started. 
+"22.04 10:54:38,624|" calcNewIntervall hat status: New: 0. 
+"22.04 10:54:38,624|" calcNewIntervall hat status: Result: 2. 
+"22.04 10:54:38,624|" loop_leser hat status: start. 
+"22.04 10:54:38,624|" getmessage hat status: started. 
+"22.04 10:54:39,419|" loop_leser hat status: Future: true [68,105,102,102,101,114,101,110,122,58,32,
+              [123,["0",44,"0",44,"-1000"],125]]// Received MessageNummer: 0, Termi: true. 
+"22.04 10:54:39,419|" loop_leser hat status: Wechsel zu Redakteur. 
+"22.04 10:54:39,419|" loop_redakteur hat status: start. 
+"22.04 10:54:39,419|" getmsgid hat status: started. 
+"22.04 10:54:39,980|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:39,996|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:39,996|" handle_new_id hat status: 354te Nachricht erstellt. 
+"22.04 10:54:39,996|" write_new_message hat status: started. 
+"22.04 10:54:39,996|" drop_message hat status: started. 
+"22.04 10:54:39,996|" loop_redakteur hat status: start. 
+"22.04 10:54:39,996|" getmsgid hat status: started. 
+"22.04 10:54:40,683|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:40,698|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:40,698|" handle_new_id hat status: 379te Nachricht erstellt. 
+"22.04 10:54:40,698|" write_new_message hat status: started. 
+"22.04 10:54:40,698|" drop_message hat status: started. 
+"22.04 10:54:40,698|" loop_redakteur hat status: start. 
+"22.04 10:54:40,698|" getmsgid hat status: started. 
+"22.04 10:54:41,495|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:41,510|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:41,510|" handle_new_id hat status: 401te Nachricht erstellt. 
+"22.04 10:54:41,510|" write_new_message hat status: started. 
+"22.04 10:54:41,510|" drop_message hat status: started. 
+"22.04 10:54:41,510|" loop_redakteur hat status: start. 
+"22.04 10:54:41,510|" getmsgid hat status: started. 
+"22.04 10:54:42,197|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:42,212|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:42,212|" handle_new_id hat status: 422te Nachricht erstellt. 
+"22.04 10:54:42,212|" write_new_message hat status: started. 
+"22.04 10:54:42,212|" drop_message hat status: started. 
+"22.04 10:54:42,353|" loop_redakteur hat status: start. 
+"22.04 10:54:42,353|" getmsgid hat status: started. 
+"22.04 10:54:43,273|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:43,288|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:43,288|" handle_new_id hat status: 446te Nachricht erstellt. 
+"22.04 10:54:43,288|" write_new_message hat status: started. 
+"22.04 10:54:43,288|" drop_message hat status: started. 
+"22.04 10:54:43,288|" loop_redakteur hat status: start. 
+"22.04 10:54:43,288|" getmsgid hat status: started. 
+"22.04 10:54:44,036|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:44,052|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:44,052|" loop_redakteur hat status: Wechsel zu Leser, Nachrichtnummer: 468 'vergessen' zu senden. 
+"22.04 10:54:44,052|" calcNewIntervall hat status: started. 
+"22.04 10:54:44,052|" calcNewIntervall hat status: New: 0. 
+"22.04 10:54:44,052|" calcNewIntervall hat status: Result: 2. 
+"22.04 10:54:44,052|" loop_leser hat status: start. 
+"22.04 10:54:44,052|" getmessage hat status: started. 
+"22.04 10:54:44,693|" loop_leser hat status: Future: true [68,105,102,102,101,114,101,110,122,58,32,
+              [123,["0",44,"0",44,"-1000"],125]]// Received MessageNummer: 279, Termi: true. 
+"22.04 10:54:44,693|" loop_leser hat status: Wechsel zu Redakteur. 
+"22.04 10:54:44,693|" loop_redakteur hat status: start. 
+"22.04 10:54:44,693|" getmsgid hat status: started. 
+"22.04 10:54:45,457|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:45,472|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:45,472|" handle_new_id hat status: 505te Nachricht erstellt. 
+"22.04 10:54:45,472|" write_new_message hat status: started. 
+"22.04 10:54:45,472|" drop_message hat status: started. 
+"22.04 10:54:45,472|" loop_redakteur hat status: start. 
+"22.04 10:54:45,472|" getmsgid hat status: started. 
+"22.04 10:54:46,175|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:46,189|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:46,189|" handle_new_id hat status: 530te Nachricht erstellt. 
+"22.04 10:54:46,189|" write_new_message hat status: started. 
+"22.04 10:54:46,189|" drop_message hat status: started. 
+"22.04 10:54:46,189|" loop_redakteur hat status: start. 
+"22.04 10:54:46,189|" getmsgid hat status: started. 
+"22.04 10:54:46,721|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:46,736|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:46,736|" handle_new_id hat status: 552te Nachricht erstellt. 
+"22.04 10:54:46,736|" write_new_message hat status: started. 
+"22.04 10:54:46,736|" drop_message hat status: started. 
+"22.04 10:54:46,736|" loop_redakteur hat status: start. 
+"22.04 10:54:46,736|" getmsgid hat status: started. 
+"22.04 10:54:47,562|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:47,579|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:47,579|" handle_new_id hat status: 572te Nachricht erstellt. 
+"22.04 10:54:47,579|" write_new_message hat status: started. 
+"22.04 10:54:47,579|" drop_message hat status: started. 
+"22.04 10:54:47,579|" loop_redakteur hat status: start. 
+"22.04 10:54:47,579|" getmsgid hat status: started. 
+"22.04 10:54:48,234|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:48,249|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:48,249|" handle_new_id hat status: 596te Nachricht erstellt. 
+"22.04 10:54:48,249|" write_new_message hat status: started. 
+"22.04 10:54:48,249|" drop_message hat status: started. 
+"22.04 10:54:48,343|" loop_redakteur hat status: start. 
+"22.04 10:54:48,343|" getmsgid hat status: started. 
+"22.04 10:54:49,092|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:49,107|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:49,107|" loop_redakteur hat status: Wechsel zu Leser, Nachrichtnummer: 619 'vergessen' zu senden. 
+"22.04 10:54:49,107|" calcNewIntervall hat status: started. 
+"22.04 10:54:49,107|" calcNewIntervall hat status: New: 0. 
+"22.04 10:54:49,107|" calcNewIntervall hat status: Result: 2. 
+"22.04 10:54:49,107|" loop_leser hat status: start. 
+"22.04 10:54:49,107|" getmessage hat status: started. 
+"22.04 10:54:49,794|" loop_leser hat status: Future: true [68,105,102,102,101,114,101,110,122,58,32,
+              [123,["0",44,"0",44,"-1000"],125]]// Received MessageNummer: 0, Termi: true. 
+"22.04 10:54:49,794|" loop_leser hat status: Wechsel zu Redakteur. 
+"22.04 10:54:49,794|" loop_redakteur hat status: start. 
+"22.04 10:54:49,794|" getmsgid hat status: started. 
+"22.04 10:54:50,527|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:50,543|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:50,543|" handle_new_id hat status: 655te Nachricht erstellt. 
+"22.04 10:54:50,543|" write_new_message hat status: started. 
+"22.04 10:54:50,543|" drop_message hat status: started. 
+"22.04 10:54:50,543|" loop_redakteur hat status: start. 
+"22.04 10:54:50,543|" getmsgid hat status: started. 
+"22.04 10:54:51,276|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:51,290|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:51,290|" handle_new_id hat status: 680te Nachricht erstellt. 
+"22.04 10:54:51,290|" write_new_message hat status: started. 
+"22.04 10:54:51,290|" drop_message hat status: started. 
+"22.04 10:54:51,290|" loop_redakteur hat status: start. 
+"22.04 10:54:51,290|" getmsgid hat status: started. 
+"22.04 10:54:52,071|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:52,087|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:52,087|" handle_new_id hat status: 702te Nachricht erstellt. 
+"22.04 10:54:52,087|" write_new_message hat status: started. 
+"22.04 10:54:52,087|" drop_message hat status: started. 
+"22.04 10:54:52,087|" loop_redakteur hat status: start. 
+"22.04 10:54:52,087|" getmsgid hat status: started. 
+"22.04 10:54:53,070|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:53,085|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:53,085|" handle_new_id hat status: 723te Nachricht erstellt. 
+"22.04 10:54:53,085|" write_new_message hat status: started. 
+"22.04 10:54:53,085|" drop_message hat status: started. 
+"22.04 10:54:53,085|" loop_redakteur hat status: start. 
+"22.04 10:54:53,085|" getmsgid hat status: started. 
+"22.04 10:54:54,006|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:54,020|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:54,020|" handle_new_id hat status: 745te Nachricht erstellt. 
+"22.04 10:54:54,020|" write_new_message hat status: started. 
+"22.04 10:54:54,020|" drop_message hat status: started. 
+"22.04 10:54:54,020|" loop_redakteur hat status: start. 
+"22.04 10:54:54,020|" getmsgid hat status: started. 
+"22.04 10:54:54,926|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:54,941|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:54,941|" loop_redakteur hat status: Wechsel zu Leser, Nachrichtnummer: 768 'vergessen' zu senden. 
+"22.04 10:54:54,941|" calcNewIntervall hat status: started. 
+"22.04 10:54:54,941|" calcNewIntervall hat status: New: 0. 
+"22.04 10:54:54,941|" calcNewIntervall hat status: Result: 2. 
+"22.04 10:54:54,941|" loop_leser hat status: start. 
+"22.04 10:54:54,941|" getmessage hat status: started. 
+"22.04 10:54:55,581|" loop_leser hat status: Future: true [68,105,102,102,101,114,101,110,122,58,32,
+              [123,["0",44,"0",44,"-1000"],125]]// Received MessageNummer: 577, Termi: true. 
+"22.04 10:54:55,581|" loop_leser hat status: Wechsel zu Redakteur. 
+"22.04 10:54:55,581|" loop_redakteur hat status: start. 
+"22.04 10:54:55,581|" getmsgid hat status: started. 
+"22.04 10:54:56,096|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:56,112|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:56,112|" handle_new_id hat status: 805te Nachricht erstellt. 
+"22.04 10:54:56,112|" write_new_message hat status: started. 
+"22.04 10:54:56,112|" drop_message hat status: started. 
+"22.04 10:54:56,112|" loop_redakteur hat status: start. 
+"22.04 10:54:56,112|" getmsgid hat status: started. 
+"22.04 10:54:56,829|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:56,845|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:56,845|" handle_new_id hat status: 830te Nachricht erstellt. 
+"22.04 10:54:56,845|" write_new_message hat status: started. 
+"22.04 10:54:56,845|" drop_message hat status: started. 
+"22.04 10:54:56,845|" loop_redakteur hat status: start. 
+"22.04 10:54:56,845|" getmsgid hat status: started. 
+"22.04 10:54:57,843|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:57,859|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:57,859|" handle_new_id hat status: 852te Nachricht erstellt. 
+"22.04 10:54:57,859|" write_new_message hat status: started. 
+"22.04 10:54:57,859|" drop_message hat status: started. 
+"22.04 10:54:57,859|" loop_redakteur hat status: start. 
+"22.04 10:54:57,859|" getmsgid hat status: started. 
+"22.04 10:54:58,701|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:58,717|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:58,717|" handle_new_id hat status: 873te Nachricht erstellt. 
+"22.04 10:54:58,717|" write_new_message hat status: started. 
+"22.04 10:54:58,717|" drop_message hat status: started. 
+"22.04 10:54:58,717|" loop_redakteur hat status: start. 
+"22.04 10:54:58,717|" getmsgid hat status: started. 
+"22.04 10:54:59,435|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:54:59,450|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:54:59,450|" handle_new_id hat status: 895te Nachricht erstellt. 
+"22.04 10:54:59,450|" write_new_message hat status: started. 
+"22.04 10:54:59,450|" drop_message hat status: started. 
+"22.04 10:54:59,450|" loop_redakteur hat status: start. 
+"22.04 10:54:59,450|" getmsgid hat status: started. 
+"22.04 10:55:00,183|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:00,199|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:00,199|" loop_redakteur hat status: Wechsel zu Leser, Nachrichtnummer: 918 'vergessen' zu senden. 
+"22.04 10:55:00,199|" calcNewIntervall hat status: started. 
+"22.04 10:55:00,199|" calcNewIntervall hat status: New: 0. 
+"22.04 10:55:00,199|" calcNewIntervall hat status: Result: 2. 
+"22.04 10:55:00,199|" loop_leser hat status: start. 
+"22.04 10:55:00,199|" getmessage hat status: started. 
+"22.04 10:55:01,104|" loop_leser hat status: Future: true [68,105,102,102,101,114,101,110,122,58,32,
+              [123,["0",44,"0",44,"-1000"],125]]// Received MessageNummer: 0, Termi: true. 
+"22.04 10:55:01,104|" loop_leser hat status: Wechsel zu Redakteur. 
+"22.04 10:55:01,104|" loop_redakteur hat status: start. 
+"22.04 10:55:01,104|" getmsgid hat status: started. 
+"22.04 10:55:01,665|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:01,681|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:01,681|" handle_new_id hat status: 955te Nachricht erstellt. 
+"22.04 10:55:01,681|" write_new_message hat status: started. 
+"22.04 10:55:01,681|" drop_message hat status: started. 
+"22.04 10:55:01,681|" loop_redakteur hat status: start. 
+"22.04 10:55:01,681|" getmsgid hat status: started. 
+"22.04 10:55:02,367|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:02,383|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:02,383|" handle_new_id hat status: 980te Nachricht erstellt. 
+"22.04 10:55:02,383|" write_new_message hat status: started. 
+"22.04 10:55:02,383|" drop_message hat status: started. 
+"22.04 10:55:02,383|" loop_redakteur hat status: start. 
+"22.04 10:55:02,383|" getmsgid hat status: started. 
+"22.04 10:55:03,163|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:03,179|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:03,179|" handle_new_id hat status: 1002te Nachricht erstellt. 
+"22.04 10:55:03,179|" write_new_message hat status: started. 
+"22.04 10:55:03,179|" drop_message hat status: started. 
+"22.04 10:55:03,179|" loop_redakteur hat status: start. 
+"22.04 10:55:03,179|" getmsgid hat status: started. 
+"22.04 10:55:04,238|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:04,254|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:04,254|" handle_new_id hat status: 1023te Nachricht erstellt. 
+"22.04 10:55:04,254|" write_new_message hat status: started. 
+"22.04 10:55:04,254|" drop_message hat status: started. 
+"22.04 10:55:04,254|" loop_redakteur hat status: start. 
+"22.04 10:55:04,254|" getmsgid hat status: started. 
+"22.04 10:55:04,926|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:04,940|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:04,940|" handle_new_id hat status: 1045te Nachricht erstellt. 
+"22.04 10:55:04,940|" write_new_message hat status: started. 
+"22.04 10:55:04,940|" drop_message hat status: started. 
+"22.04 10:55:04,940|" loop_redakteur hat status: start. 
+"22.04 10:55:04,940|" getmsgid hat status: started. 
+"22.04 10:55:05,628|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:05,643|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:05,643|" loop_redakteur hat status: Wechsel zu Leser, Nachrichtnummer: 1068 'vergessen' zu senden. 
+"22.04 10:55:05,643|" calcNewIntervall hat status: started. 
+"22.04 10:55:05,643|" calcNewIntervall hat status: New: 0. 
+"22.04 10:55:05,643|" calcNewIntervall hat status: Result: 2. 
+"22.04 10:55:05,643|" loop_leser hat status: start. 
+"22.04 10:55:05,643|" getmessage hat status: started. 
+"22.04 10:55:06,611|" loop_leser hat status: Future: true [68,105,102,102,101,114,101,110,122,58,32,
+              [123,["0",44,"0",44,"-1000"],125]]// Received MessageNummer: 877, Termi: true. 
+"22.04 10:55:06,611|" loop_leser hat status: Wechsel zu Redakteur. 
+"22.04 10:55:06,611|" loop_redakteur hat status: start. 
+"22.04 10:55:06,611|" getmsgid hat status: started. 
+"22.04 10:55:07,187|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:07,203|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:07,203|" handle_new_id hat status: 1105te Nachricht erstellt. 
+"22.04 10:55:07,203|" write_new_message hat status: started. 
+"22.04 10:55:07,203|" drop_message hat status: started. 
+"22.04 10:55:07,203|" loop_redakteur hat status: start. 
+"22.04 10:55:07,203|" getmsgid hat status: started. 
+"22.04 10:55:07,874|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:07,890|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:07,890|" handle_new_id hat status: 1131te Nachricht erstellt. 
+"22.04 10:55:07,890|" write_new_message hat status: started. 
+"22.04 10:55:07,890|" drop_message hat status: started. 
+"22.04 10:55:07,890|" loop_redakteur hat status: start. 
+"22.04 10:55:07,890|" getmsgid hat status: started. 
+"22.04 10:55:08,405|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:08,419|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:08,419|" handle_new_id hat status: 1153te Nachricht erstellt. 
+"22.04 10:55:08,419|" write_new_message hat status: started. 
+"22.04 10:55:08,419|" drop_message hat status: started. 
+"22.04 10:55:08,419|" loop_redakteur hat status: start. 
+"22.04 10:55:08,419|" getmsgid hat status: started. 
+"22.04 10:55:09,107|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:09,121|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:09,121|" handle_new_id hat status: 1174te Nachricht erstellt. 
+"22.04 10:55:09,121|" write_new_message hat status: started. 
+"22.04 10:55:09,121|" drop_message hat status: started. 
+"22.04 10:55:09,121|" loop_redakteur hat status: start. 
+"22.04 10:55:09,121|" getmsgid hat status: started. 
+"22.04 10:55:09,793|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:09,809|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:09,809|" handle_new_id hat status: 1196te Nachricht erstellt. 
+"22.04 10:55:09,809|" write_new_message hat status: started. 
+"22.04 10:55:09,809|" drop_message hat status: started. 
+"22.04 10:55:09,809|" loop_redakteur hat status: start. 
+"22.04 10:55:09,809|" getmsgid hat status: started. 
+"22.04 10:55:10,714|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:10,729|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:10,729|" loop_redakteur hat status: Wechsel zu Leser, Nachrichtnummer: 1219 'vergessen' zu senden. 
+"22.04 10:55:10,729|" calcNewIntervall hat status: started. 
+"22.04 10:55:10,729|" calcNewIntervall hat status: New: 0. 
+"22.04 10:55:10,729|" calcNewIntervall hat status: Result: 2. 
+"22.04 10:55:10,729|" loop_leser hat status: start. 
+"22.04 10:55:10,729|" getmessage hat status: started. 
+"22.04 10:55:11,181|" loop_leser hat status: Future: true [68,105,102,102,101,114,101,110,122,58,32,
+              [123,["0",44,"0",44,"-1000"],125]]// Received MessageNummer: 0, Termi: true. 
+"22.04 10:55:11,181|" loop_leser hat status: Wechsel zu Redakteur. 
+"22.04 10:55:11,181|" loop_redakteur hat status: start. 
+"22.04 10:55:11,181|" getmsgid hat status: started. 
+"22.04 10:55:11,494|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:11,508|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:11,508|" handle_new_id hat status: 1256te Nachricht erstellt. 
+"22.04 10:55:11,508|" write_new_message hat status: started. 
+"22.04 10:55:11,508|" drop_message hat status: started. 
+"22.04 10:55:11,508|" loop_redakteur hat status: start. 
+"22.04 10:55:11,508|" getmsgid hat status: started. 
+"22.04 10:55:11,758|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:11,774|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:11,774|" handle_new_id hat status: 1283te Nachricht erstellt. 
+"22.04 10:55:11,774|" write_new_message hat status: started. 
+"22.04 10:55:11,774|" drop_message hat status: started. 
+"22.04 10:55:11,774|" loop_redakteur hat status: start. 
+"22.04 10:55:11,774|" getmsgid hat status: started. 
+"22.04 10:55:13,132|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:13,147|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:13,147|" handle_new_id hat status: 1304te Nachricht erstellt. 
+"22.04 10:55:13,147|" write_new_message hat status: started. 
+"22.04 10:55:13,147|" drop_message hat status: started. 
+"22.04 10:55:13,147|" loop_redakteur hat status: start. 
+"22.04 10:55:13,147|" getmsgid hat status: started. 
+"22.04 10:55:13,911|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:13,927|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:13,927|" handle_new_id hat status: 1325te Nachricht erstellt. 
+"22.04 10:55:13,927|" write_new_message hat status: started. 
+"22.04 10:55:13,927|" drop_message hat status: started. 
+"22.04 10:55:13,927|" loop_redakteur hat status: start. 
+"22.04 10:55:13,927|" getmsgid hat status: started. 
+"22.04 10:55:14,785|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:14,801|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:14,801|" handle_new_id hat status: 1348te Nachricht erstellt. 
+"22.04 10:55:14,801|" write_new_message hat status: started. 
+"22.04 10:55:14,801|" drop_message hat status: started. 
+"22.04 10:55:14,801|" loop_redakteur hat status: start. 
+"22.04 10:55:14,801|" getmsgid hat status: started. 
+"22.04 10:55:15,534|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:15,550|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:15,550|" loop_redakteur hat status: Wechsel zu Leser, Nachrichtnummer: 1368 'vergessen' zu senden. 
+"22.04 10:55:15,550|" calcNewIntervall hat status: started. 
+"22.04 10:55:15,550|" calcNewIntervall hat status: New: 0. 
+"22.04 10:55:15,550|" calcNewIntervall hat status: Result: 2. 
+"22.04 10:55:15,550|" loop_leser hat status: start. 
+"22.04 10:55:15,550|" getmessage hat status: started. 
+"22.04 10:55:16,205|" loop_leser hat status: Future: true [68,105,102,102,101,114,101,110,122,58,32,
+              [123,["0",44,"0",44,"-1000"],125]]// Received MessageNummer: 1178, Termi: true. 
+"22.04 10:55:16,205|" loop_leser hat status: Wechsel zu Redakteur. 
+"22.04 10:55:16,205|" loop_redakteur hat status: start. 
+"22.04 10:55:16,205|" getmsgid hat status: started. 
+"22.04 10:55:16,734|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:16,750|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:16,750|" handle_new_id hat status: 1407te Nachricht erstellt. 
+"22.04 10:55:16,750|" write_new_message hat status: started. 
+"22.04 10:55:16,750|" drop_message hat status: started. 
+"22.04 10:55:16,750|" loop_redakteur hat status: start. 
+"22.04 10:55:16,750|" getmsgid hat status: started. 
+"22.04 10:55:17,500|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:17,515|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:17,515|" handle_new_id hat status: 1432te Nachricht erstellt. 
+"22.04 10:55:17,515|" write_new_message hat status: started. 
+"22.04 10:55:17,515|" drop_message hat status: started. 
+"22.04 10:55:17,515|" loop_redakteur hat status: start. 
+"22.04 10:55:17,515|" getmsgid hat status: started. 
+"22.04 10:55:18,467|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:18,482|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:18,482|" handle_new_id hat status: 1454te Nachricht erstellt. 
+"22.04 10:55:18,482|" write_new_message hat status: started. 
+"22.04 10:55:18,482|" drop_message hat status: started. 
+"22.04 10:55:18,482|" loop_redakteur hat status: start. 
+"22.04 10:55:18,482|" getmsgid hat status: started. 
+"22.04 10:55:19,200|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:19,216|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:19,216|" handle_new_id hat status: 1475te Nachricht erstellt. 
+"22.04 10:55:19,216|" write_new_message hat status: started. 
+"22.04 10:55:19,216|" drop_message hat status: started. 
+"22.04 10:55:19,216|" loop_redakteur hat status: start. 
+"22.04 10:55:19,216|" getmsgid hat status: started. 
+"22.04 10:55:19,886|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:19,902|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:19,902|" handle_new_id hat status: 1498te Nachricht erstellt. 
+"22.04 10:55:19,902|" write_new_message hat status: started. 
+"22.04 10:55:19,902|" drop_message hat status: started. 
+"22.04 10:55:19,902|" loop_redakteur hat status: start. 
+"22.04 10:55:19,902|" getmsgid hat status: started. 
+"22.04 10:55:20,573|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:20,588|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:20,588|" loop_redakteur hat status: Wechsel zu Leser, Nachrichtnummer: 1518 'vergessen' zu senden. 
+"22.04 10:55:20,588|" calcNewIntervall hat status: started. 
+"22.04 10:55:20,588|" calcNewIntervall hat status: New: 0. 
+"22.04 10:55:20,588|" calcNewIntervall hat status: Result: 2. 
+"22.04 10:55:20,588|" loop_leser hat status: start. 
+"22.04 10:55:20,588|" getmessage hat status: started. 
+"22.04 10:55:21,056|" loop_leser hat status: Future: true [68,105,102,102,101,114,101,110,122,58,32,
+              [123,["0",44,"0",44,"-1000"],125]]// Received MessageNummer: 0, Termi: true. 
+"22.04 10:55:21,056|" loop_leser hat status: Wechsel zu Redakteur. 
+"22.04 10:55:21,056|" loop_redakteur hat status: start. 
+"22.04 10:55:21,056|" getmsgid hat status: started. 
+"22.04 10:55:21,556|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:21,571|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:21,571|" handle_new_id hat status: 1557te Nachricht erstellt. 
+"22.04 10:55:21,571|" write_new_message hat status: started. 
+"22.04 10:55:21,571|" drop_message hat status: started. 
+"22.04 10:55:21,571|" loop_redakteur hat status: start. 
+"22.04 10:55:21,571|" getmsgid hat status: started. 
+"22.04 10:55:22,351|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:22,367|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:22,367|" handle_new_id hat status: 1582te Nachricht erstellt. 
+"22.04 10:55:22,367|" write_new_message hat status: started. 
+"22.04 10:55:22,367|" drop_message hat status: started. 
+"22.04 10:55:22,367|" loop_redakteur hat status: start. 
+"22.04 10:55:22,367|" getmsgid hat status: started. 
+"22.04 10:55:23,161|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:23,177|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:23,177|" handle_new_id hat status: 1604te Nachricht erstellt. 
+"22.04 10:55:23,177|" write_new_message hat status: started. 
+"22.04 10:55:23,177|" drop_message hat status: started. 
+"22.04 10:55:23,177|" loop_redakteur hat status: start. 
+"22.04 10:55:23,177|" getmsgid hat status: started. 
+"22.04 10:55:24,052|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:24,066|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:24,066|" handle_new_id hat status: 1625te Nachricht erstellt. 
+"22.04 10:55:24,066|" write_new_message hat status: started. 
+"22.04 10:55:24,066|" drop_message hat status: started. 
+"22.04 10:55:24,066|" loop_redakteur hat status: start. 
+"22.04 10:55:24,066|" getmsgid hat status: started. 
+"22.04 10:55:24,972|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:24,988|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:24,988|" handle_new_id hat status: 1648te Nachricht erstellt. 
+"22.04 10:55:24,988|" write_new_message hat status: started. 
+"22.04 10:55:24,988|" drop_message hat status: started. 
+"22.04 10:55:24,988|" loop_redakteur hat status: start. 
+"22.04 10:55:24,988|" getmsgid hat status: started. 
+"22.04 10:55:25,736|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:25,752|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:25,752|" loop_redakteur hat status: Wechsel zu Leser, Nachrichtnummer: 1669 'vergessen' zu senden. 
+"22.04 10:55:25,752|" calcNewIntervall hat status: started. 
+"22.04 10:55:25,752|" calcNewIntervall hat status: New: 0. 
+"22.04 10:55:25,752|" calcNewIntervall hat status: Result: 2. 
+"22.04 10:55:25,752|" loop_leser hat status: start. 
+"22.04 10:55:25,752|" getmessage hat status: started. 
+"22.04 10:55:26,672|" loop_leser hat status: Future: true [68,105,102,102,101,114,101,110,122,58,32,
+              [123,["0",44,"0",44,"-1000"],125]]// Received MessageNummer: 1478, Termi: true. 
+"22.04 10:55:26,672|" loop_leser hat status: Wechsel zu Redakteur. 
+"22.04 10:55:26,672|" loop_redakteur hat status: start. 
+"22.04 10:55:26,672|" getmsgid hat status: started. 
+"22.04 10:55:27,171|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:27,187|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:27,187|" handle_new_id hat status: 1707te Nachricht erstellt. 
+"22.04 10:55:27,187|" write_new_message hat status: started. 
+"22.04 10:55:27,187|" drop_message hat status: started. 
+"22.04 10:55:27,187|" loop_redakteur hat status: start. 
+"22.04 10:55:27,187|" getmsgid hat status: started. 
+"22.04 10:55:27,983|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:27,998|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:27,998|" handle_new_id hat status: 1732te Nachricht erstellt. 
+"22.04 10:55:27,998|" write_new_message hat status: started. 
+"22.04 10:55:27,998|" drop_message hat status: started. 
+"22.04 10:55:27,998|" loop_redakteur hat status: start. 
+"22.04 10:55:27,998|" getmsgid hat status: started. 
+"22.04 10:55:29,262|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:29,278|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:29,278|" handle_new_id hat status: 1754te Nachricht erstellt. 
+"22.04 10:55:29,278|" write_new_message hat status: started. 
+"22.04 10:55:29,278|" drop_message hat status: started. 
+"22.04 10:55:29,278|" loop_redakteur hat status: start. 
+"22.04 10:55:29,278|" getmsgid hat status: started. 
+"22.04 10:55:30,198|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:30,214|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:30,214|" handle_new_id hat status: 1775te Nachricht erstellt. 
+"22.04 10:55:30,214|" write_new_message hat status: started. 
+"22.04 10:55:30,214|" drop_message hat status: started. 
+"22.04 10:55:30,354|" loop_redakteur hat status: start. 
+"22.04 10:55:30,354|" getmsgid hat status: started. 
+"22.04 10:55:31,040|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:31,056|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:31,056|" handle_new_id hat status: 1802te Nachricht erstellt. 
+"22.04 10:55:31,056|" write_new_message hat status: started. 
+"22.04 10:55:31,056|" drop_message hat status: started. 
+"22.04 10:55:31,056|" loop_redakteur hat status: start. 
+"22.04 10:55:31,056|" getmsgid hat status: started. 
+"22.04 10:55:31,774|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:31,789|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:31,789|" loop_redakteur hat status: Wechsel zu Leser, Nachrichtnummer: 1822 'vergessen' zu senden. 
+"22.04 10:55:31,789|" calcNewIntervall hat status: started. 
+"22.04 10:55:31,789|" calcNewIntervall hat status: New: 0. 
+"22.04 10:55:31,789|" calcNewIntervall hat status: Result: 2. 
+"22.04 10:55:31,789|" loop_leser hat status: start. 
+"22.04 10:55:31,789|" getmessage hat status: started. 
+"22.04 10:55:32,491|" loop_leser hat status: Future: true [68,105,102,102,101,114,101,110,122,58,32,
+              [123,["0",44,"0",44,"-1000"],125]]// Received MessageNummer: 0, Termi: true. 
+"22.04 10:55:32,491|" loop_leser hat status: Wechsel zu Redakteur. 
+"22.04 10:55:32,491|" loop_redakteur hat status: start. 
+"22.04 10:55:32,491|" getmsgid hat status: started. 
+"22.04 10:55:32,850|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:32,866|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:32,866|" handle_new_id hat status: 1861te Nachricht erstellt. 
+"22.04 10:55:32,866|" write_new_message hat status: started. 
+"22.04 10:55:32,866|" drop_message hat status: started. 
+"22.04 10:55:32,866|" loop_redakteur hat status: start. 
+"22.04 10:55:32,866|" getmsgid hat status: started. 
+"22.04 10:55:33,395|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:33,411|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:33,411|" handle_new_id hat status: 1885te Nachricht erstellt. 
+"22.04 10:55:33,411|" write_new_message hat status: started. 
+"22.04 10:55:33,411|" drop_message hat status: started. 
+"22.04 10:55:33,411|" loop_redakteur hat status: start. 
+"22.04 10:55:33,411|" getmsgid hat status: started. 
+"22.04 10:55:33,926|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:33,941|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:33,941|" handle_new_id hat status: 1908te Nachricht erstellt. 
+"22.04 10:55:33,941|" write_new_message hat status: started. 
+"22.04 10:55:33,941|" drop_message hat status: started. 
+"22.04 10:55:33,941|" loop_redakteur hat status: start. 
+"22.04 10:55:33,941|" getmsgid hat status: started. 
+"22.04 10:55:34,831|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:34,847|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:34,847|" handle_new_id hat status: 1927te Nachricht erstellt. 
+"22.04 10:55:34,847|" write_new_message hat status: started. 
+"22.04 10:55:34,847|" drop_message hat status: started. 
+"22.04 10:55:34,847|" loop_redakteur hat status: start. 
+"22.04 10:55:34,847|" getmsgid hat status: started. 
+"22.04 10:55:35,518|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:35,532|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:35,532|" handle_new_id hat status: 1952te Nachricht erstellt. 
+"22.04 10:55:35,532|" write_new_message hat status: started. 
+"22.04 10:55:35,532|" drop_message hat status: started. 
+"22.04 10:55:35,532|" loop_redakteur hat status: start. 
+"22.04 10:55:35,532|" getmsgid hat status: started. 
+"22.04 10:55:36,266|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:36,282|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:36,282|" loop_redakteur hat status: Wechsel zu Leser, Nachrichtnummer: 1972 'vergessen' zu senden. 
+"22.04 10:55:36,282|" calcNewIntervall hat status: started. 
+"22.04 10:55:36,282|" calcNewIntervall hat status: New: 0. 
+"22.04 10:55:36,282|" calcNewIntervall hat status: Result: 2. 
+"22.04 10:55:36,282|" loop_leser hat status: start. 
+"22.04 10:55:36,282|" getmessage hat status: started. 
+"22.04 10:55:37,187|" loop_leser hat status: Future: true [68,105,102,102,101,114,101,110,122,58,32,
+              [123,["0",44,"0",44,"-1000"],125]]// Received MessageNummer: 1783, Termi: true. 
+"22.04 10:55:37,187|" loop_leser hat status: Wechsel zu Redakteur. 
+"22.04 10:55:37,187|" loop_redakteur hat status: start. 
+"22.04 10:55:37,187|" getmsgid hat status: started. 
+"22.04 10:55:37,733|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:37,748|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:37,748|" handle_new_id hat status: 2010te Nachricht erstellt. 
+"22.04 10:55:37,748|" write_new_message hat status: started. 
+"22.04 10:55:37,748|" drop_message hat status: started. 
+"22.04 10:55:37,748|" loop_redakteur hat status: start. 
+"22.04 10:55:37,748|" getmsgid hat status: started. 
+"22.04 10:55:38,669|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:38,684|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:38,684|" handle_new_id hat status: 2035te Nachricht erstellt. 
+"22.04 10:55:38,684|" write_new_message hat status: started. 
+"22.04 10:55:38,684|" drop_message hat status: started. 
+"22.04 10:55:38,684|" loop_redakteur hat status: start. 
+"22.04 10:55:38,684|" getmsgid hat status: started. 
+"22.04 10:55:40,088|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:40,104|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:40,104|" handle_new_id hat status: 2057te Nachricht erstellt. 
+"22.04 10:55:40,104|" write_new_message hat status: started. 
+"22.04 10:55:40,104|" drop_message hat status: started. 
+"22.04 10:55:40,104|" loop_redakteur hat status: start. 
+"22.04 10:55:40,104|" getmsgid hat status: started. 
+"22.04 10:55:40,790|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:40,806|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:40,806|" handle_new_id hat status: 2076te Nachricht erstellt. 
+"22.04 10:55:40,806|" write_new_message hat status: started. 
+"22.04 10:55:40,806|" drop_message hat status: started. 
+"22.04 10:55:40,806|" loop_redakteur hat status: start. 
+"22.04 10:55:40,806|" getmsgid hat status: started. 
+"22.04 10:55:41,461|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:41,476|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:41,476|" handle_new_id hat status: 2101te Nachricht erstellt. 
+"22.04 10:55:41,476|" write_new_message hat status: started. 
+"22.04 10:55:41,476|" drop_message hat status: started. 
+"22.04 10:55:41,476|" loop_redakteur hat status: start. 
+"22.04 10:55:41,476|" getmsgid hat status: started. 
+"22.04 10:55:42,507|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:42,522|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:42,522|" loop_redakteur hat status: Wechsel zu Leser, Nachrichtnummer: 2121 'vergessen' zu senden. 
+"22.04 10:55:42,522|" calcNewIntervall hat status: started. 
+"22.04 10:55:42,522|" calcNewIntervall hat status: New: 0. 
+"22.04 10:55:42,522|" calcNewIntervall hat status: Result: 2. 
+"22.04 10:55:42,522|" loop_leser hat status: start. 
+"22.04 10:55:42,522|" getmessage hat status: started. 
+"22.04 10:55:42,897|" loop_leser hat status: Future: true [68,105,102,102,101,114,101,110,122,58,32,
+              [123,["0",44,"0",44,"-1000"],125]]// Received MessageNummer: 0, Termi: true. 
+"22.04 10:55:42,897|" loop_leser hat status: Wechsel zu Redakteur. 
+"22.04 10:55:42,897|" loop_redakteur hat status: start. 
+"22.04 10:55:42,897|" getmsgid hat status: started. 
+"22.04 10:55:43,254|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:43,270|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:43,270|" handle_new_id hat status: 2159te Nachricht erstellt. 
+"22.04 10:55:43,270|" write_new_message hat status: started. 
+"22.04 10:55:43,270|" drop_message hat status: started. 
+"22.04 10:55:43,270|" loop_redakteur hat status: start. 
+"22.04 10:55:43,270|" getmsgid hat status: started. 
+"22.04 10:55:43,786|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:43,801|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:43,801|" handle_new_id hat status: 2184te Nachricht erstellt. 
+"22.04 10:55:43,801|" write_new_message hat status: started. 
+"22.04 10:55:43,801|" drop_message hat status: started. 
+"22.04 10:55:43,801|" loop_redakteur hat status: start. 
+"22.04 10:55:43,801|" getmsgid hat status: started. 
+"22.04 10:55:45,282|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:45,298|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:45,298|" handle_new_id hat status: 2206te Nachricht erstellt. 
+"22.04 10:55:45,298|" write_new_message hat status: started. 
+"22.04 10:55:45,298|" drop_message hat status: started. 
+"22.04 10:55:45,298|" loop_redakteur hat status: start. 
+"22.04 10:55:45,298|" getmsgid hat status: started. 
+"22.04 10:55:46,062|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:46,079|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:46,079|" handle_new_id hat status: 2225te Nachricht erstellt. 
+"22.04 10:55:46,079|" write_new_message hat status: started. 
+"22.04 10:55:46,079|" drop_message hat status: started. 
+"22.04 10:55:46,079|" loop_redakteur hat status: start. 
+"22.04 10:55:46,079|" getmsgid hat status: started. 
+"22.04 10:55:46,641|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:46,656|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:46,656|" handle_new_id hat status: 2250te Nachricht erstellt. 
+"22.04 10:55:46,656|" write_new_message hat status: started. 
+"22.04 10:55:46,656|" drop_message hat status: started. 
+"22.04 10:55:46,656|" loop_redakteur hat status: start. 
+"22.04 10:55:46,656|" getmsgid hat status: started. 
+"22.04 10:55:47,124|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:47,140|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:47,140|" loop_redakteur hat status: Wechsel zu Leser, Nachrichtnummer: 2271 'vergessen' zu senden. 
+"22.04 10:55:47,140|" calcNewIntervall hat status: started. 
+"22.04 10:55:47,140|" calcNewIntervall hat status: New: 0. 
+"22.04 10:55:47,140|" calcNewIntervall hat status: Result: 2. 
+"22.04 10:55:47,140|" loop_leser hat status: start. 
+"22.04 10:55:47,140|" getmessage hat status: started. 
+"22.04 10:55:47,857|" loop_leser hat status: Future: true [68,105,102,102,101,114,101,110,122,58,32,
+              [123,["0",44,"0",44,"-1000"],125]]// Received MessageNummer: 2082, Termi: true. 
+"22.04 10:55:47,857|" loop_leser hat status: Wechsel zu Redakteur. 
+"22.04 10:55:47,857|" loop_redakteur hat status: start. 
+"22.04 10:55:47,857|" getmsgid hat status: started. 
+"22.04 10:55:48,310|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:48,325|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:48,325|" handle_new_id hat status: 2310te Nachricht erstellt. 
+"22.04 10:55:48,325|" write_new_message hat status: started. 
+"22.04 10:55:48,325|" drop_message hat status: started. 
+"22.04 10:55:48,371|" loop_redakteur hat status: start. 
+"22.04 10:55:48,371|" getmsgid hat status: started. 
+"22.04 10:55:49,105|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:49,121|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:49,121|" handle_new_id hat status: 2336te Nachricht erstellt. 
+"22.04 10:55:49,121|" write_new_message hat status: started. 
+"22.04 10:55:49,121|" drop_message hat status: started. 
+"22.04 10:55:49,121|" loop_redakteur hat status: start. 
+"22.04 10:55:49,121|" getmsgid hat status: started. 
+"22.04 10:55:49,995|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:50,010|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:50,010|" handle_new_id hat status: 2358te Nachricht erstellt. 
+"22.04 10:55:50,010|" write_new_message hat status: started. 
+"22.04 10:55:50,010|" drop_message hat status: started. 
+"22.04 10:55:50,010|" loop_redakteur hat status: start. 
+"22.04 10:55:50,010|" getmsgid hat status: started. 
+"22.04 10:55:50,931|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:50,946|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:50,946|" handle_new_id hat status: 2377te Nachricht erstellt. 
+"22.04 10:55:50,946|" write_new_message hat status: started. 
+"22.04 10:55:50,946|" drop_message hat status: started. 
+"22.04 10:55:50,946|" loop_redakteur hat status: start. 
+"22.04 10:55:50,946|" getmsgid hat status: started. 
+"22.04 10:55:51,617|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:51,633|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:51,633|" handle_new_id hat status: 2402te Nachricht erstellt. 
+"22.04 10:55:51,633|" write_new_message hat status: started. 
+"22.04 10:55:51,633|" drop_message hat status: started. 
+"22.04 10:55:51,633|" loop_redakteur hat status: start. 
+"22.04 10:55:51,633|" getmsgid hat status: started. 
+"22.04 10:55:52,366|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:52,381|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:52,381|" loop_redakteur hat status: Wechsel zu Leser, Nachrichtnummer: 2421 'vergessen' zu senden. 
+"22.04 10:55:52,381|" calcNewIntervall hat status: started. 
+"22.04 10:55:52,381|" calcNewIntervall hat status: New: 0. 
+"22.04 10:55:52,381|" calcNewIntervall hat status: Result: 2. 
+"22.04 10:55:52,381|" loop_leser hat status: start. 
+"22.04 10:55:52,381|" getmessage hat status: started. 
+"22.04 10:55:53,068|" loop_leser hat status: Future: true [68,105,102,102,101,114,101,110,122,58,32,
+              [123,["0",44,"0",44,"-1000"],125]]// Received MessageNummer: 0, Termi: true. 
+"22.04 10:55:53,068|" loop_leser hat status: Wechsel zu Redakteur. 
+"22.04 10:55:53,068|" loop_redakteur hat status: start. 
+"22.04 10:55:53,068|" getmsgid hat status: started. 
+"22.04 10:55:53,583|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:53,597|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:53,597|" handle_new_id hat status: 2461te Nachricht erstellt. 
+"22.04 10:55:53,597|" write_new_message hat status: started. 
+"22.04 10:55:53,597|" drop_message hat status: started. 
+"22.04 10:55:53,597|" loop_redakteur hat status: start. 
+"22.04 10:55:53,597|" getmsgid hat status: started. 
+"22.04 10:55:54,175|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:54,191|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:54,191|" handle_new_id hat status: 2486te Nachricht erstellt. 
+"22.04 10:55:54,191|" write_new_message hat status: started. 
+"22.04 10:55:54,191|" drop_message hat status: started. 
+"22.04 10:55:54,191|" loop_redakteur hat status: start. 
+"22.04 10:55:54,191|" getmsgid hat status: started. 
+"22.04 10:55:56,046|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:56,062|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:56,062|" handle_new_id hat status: 2508te Nachricht erstellt. 
+"22.04 10:55:56,062|" write_new_message hat status: started. 
+"22.04 10:55:56,062|" drop_message hat status: started. 
+"22.04 10:55:56,062|" loop_redakteur hat status: start. 
+"22.04 10:55:56,062|" getmsgid hat status: started. 
+"22.04 10:55:57,217|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:57,233|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:57,233|" handle_new_id hat status: 2527te Nachricht erstellt. 
+"22.04 10:55:57,233|" write_new_message hat status: started. 
+"22.04 10:55:57,233|" drop_message hat status: started. 
+"22.04 10:55:57,233|" loop_redakteur hat status: start. 
+"22.04 10:55:57,233|" getmsgid hat status: started. 
+"22.04 10:55:57,903|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:57,919|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:57,919|" handle_new_id hat status: 2552te Nachricht erstellt. 
+"22.04 10:55:57,919|" write_new_message hat status: started. 
+"22.04 10:55:57,919|" drop_message hat status: started. 
+"22.04 10:55:57,919|" loop_redakteur hat status: start. 
+"22.04 10:55:57,919|" getmsgid hat status: started. 
+"22.04 10:55:58,887|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:55:58,902|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:55:58,902|" loop_redakteur hat status: Wechsel zu Leser, Nachrichtnummer: 2571 'vergessen' zu senden. 
+"22.04 10:55:58,902|" calcNewIntervall hat status: started. 
+"22.04 10:55:58,902|" calcNewIntervall hat status: New: 0. 
+"22.04 10:55:58,902|" calcNewIntervall hat status: Result: 2. 
+"22.04 10:55:58,902|" loop_leser hat status: start. 
+"22.04 10:55:58,902|" getmessage hat status: started. 
+"22.04 10:55:59,448|" loop_leser hat status: Future: true [68,105,102,102,101,114,101,110,122,58,32,
+              [123,["0",44,"0",44,"-1000"],125]]// Received MessageNummer: 2380, Termi: true. 
+"22.04 10:55:59,448|" loop_leser hat status: Wechsel zu Redakteur. 
+"22.04 10:55:59,448|" loop_redakteur hat status: start. 
+"22.04 10:55:59,448|" getmsgid hat status: started. 
+"22.04 10:56:00,024|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:56:00,040|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:56:00,040|" handle_new_id hat status: 2610te Nachricht erstellt. 
+"22.04 10:56:00,040|" write_new_message hat status: started. 
+"22.04 10:56:00,040|" drop_message hat status: started. 
+"22.04 10:56:00,040|" loop_redakteur hat status: start. 
+"22.04 10:56:00,040|" getmsgid hat status: started. 
+"22.04 10:56:00,837|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:56:00,851|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:56:00,851|" handle_new_id hat status: 2635te Nachricht erstellt. 
+"22.04 10:56:00,851|" write_new_message hat status: started. 
+"22.04 10:56:00,851|" drop_message hat status: started. 
+"22.04 10:56:00,851|" loop_redakteur hat status: start. 
+"22.04 10:56:00,851|" getmsgid hat status: started. 
+"22.04 10:56:01,679|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:56:01,694|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:56:01,694|" handle_new_id hat status: 2657te Nachricht erstellt. 
+"22.04 10:56:01,694|" write_new_message hat status: started. 
+"22.04 10:56:01,694|" drop_message hat status: started. 
+"22.04 10:56:01,694|" loop_redakteur hat status: start. 
+"22.04 10:56:01,694|" getmsgid hat status: started. 
+"22.04 10:56:02,584|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:56:02,599|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:56:02,599|" handle_new_id hat status: 2676te Nachricht erstellt. 
+"22.04 10:56:02,599|" write_new_message hat status: started. 
+"22.04 10:56:02,599|" drop_message hat status: started. 
+"22.04 10:56:02,599|" loop_redakteur hat status: start. 
+"22.04 10:56:02,599|" getmsgid hat status: started. 
+"22.04 10:56:03,223|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:56:03,238|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:56:03,238|" handle_new_id hat status: 2703te Nachricht erstellt. 
+"22.04 10:56:03,238|" write_new_message hat status: started. 
+"22.04 10:56:03,238|" drop_message hat status: started. 
+"22.04 10:56:03,238|" loop_redakteur hat status: start. 
+"22.04 10:56:03,238|" getmsgid hat status: started. 
+"22.04 10:56:03,972|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:56:03,988|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:56:03,988|" loop_redakteur hat status: Wechsel zu Leser, Nachrichtnummer: 2721 'vergessen' zu senden. 
+"22.04 10:56:03,988|" calcNewIntervall hat status: started. 
+"22.04 10:56:03,988|" calcNewIntervall hat status: New: 0. 
+"22.04 10:56:03,988|" calcNewIntervall hat status: Result: 2. 
+"22.04 10:56:03,988|" loop_leser hat status: start. 
+"22.04 10:56:03,988|" getmessage hat status: started. 
+"22.04 10:56:04,331|" loop_leser hat status: Future: true [68,105,102,102,101,114,101,110,122,58,32,
+              [123,["0",44,"0",44,"-1000"],125]]// Received MessageNummer: 0, Termi: true. 
+"22.04 10:56:04,331|" loop_leser hat status: Wechsel zu Redakteur. 
+"22.04 10:56:04,331|" loop_redakteur hat status: start. 
+"22.04 10:56:04,331|" getmsgid hat status: started. 
+"22.04 10:56:04,782|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:56:04,798|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:56:04,798|" handle_new_id hat status: 2753te Nachricht erstellt. 
+"22.04 10:56:04,798|" write_new_message hat status: started. 
+"22.04 10:56:04,798|" drop_message hat status: started. 
+"22.04 10:56:04,798|" loop_redakteur hat status: start. 
+"22.04 10:56:04,798|" getmsgid hat status: started. 
+"22.04 10:56:05,439|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:56:05,454|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:56:05,454|" handle_new_id hat status: 2778te Nachricht erstellt. 
+"22.04 10:56:05,454|" write_new_message hat status: started. 
+"22.04 10:56:05,454|" drop_message hat status: started. 
+"22.04 10:56:05,454|" loop_redakteur hat status: start. 
+"22.04 10:56:05,454|" getmsgid hat status: started. 
+"22.04 10:56:06,203|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:56:06,219|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:56:06,219|" handle_new_id hat status: 2800te Nachricht erstellt. 
+"22.04 10:56:06,219|" write_new_message hat status: started. 
+"22.04 10:56:06,219|" drop_message hat status: started. 
+"22.04 10:56:06,359|" loop_redakteur hat status: start. 
+"22.04 10:56:06,359|" getmsgid hat status: started. 
+"22.04 10:56:07,217|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:56:07,233|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:56:07,233|" handle_new_id hat status: 2821te Nachricht erstellt. 
+"22.04 10:56:07,233|" write_new_message hat status: started. 
+"22.04 10:56:07,233|" drop_message hat status: started. 
+"22.04 10:56:07,233|" loop_redakteur hat status: start. 
+"22.04 10:56:07,233|" getmsgid hat status: started. 
+"22.04 10:56:07,950|" loop_redakteur hat status: Redakteur hat neue ID erhalten und schlaeft ein. 
+"22.04 10:56:07,966|" loop_redakteur hat status: Redakteur wacht wieder auf. 
+"22.04 10:56:07,966|" handle_new_id hat status: 2843te Nachricht erstellt. 
+"22.04 10:56:07,966|" write_new_message hat status: started. 
+"22.04 10:56:07,966|" drop_message hat status: started. 
+"22.04 10:56:07,966|" loop_redakteur hat status: start. 
+"22.04 10:56:07,966|" getmsgid hat status: started. 
+"22.04 10:56:07,980|" killHandler hat status: Client wurde vom Hauptclientprozess gekillt. 

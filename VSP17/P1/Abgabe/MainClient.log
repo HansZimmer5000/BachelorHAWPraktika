@@ -1,0 +1,525 @@
+"22.04 10:54:07,875|" start hat status: 
+
+
+Alle Clients werden gestartet. 
+"22.04 10:54:07,939|" start hat status: Ping Server: pong. 
+"22.04 10:54:07,954|" start_n_clients hat status: Client client25 startet mit: <0.79.0>. 
+"22.04 10:54:07,954|" start_n_clients hat status: Client client24 startet mit: <0.80.0>. 
+"22.04 10:54:07,954|" start_n_clients hat status: Client client23 startet mit: <0.81.0>. 
+"22.04 10:54:07,954|" start_n_clients hat status: Client client22 startet mit: <0.82.0>. 
+"22.04 10:54:07,954|" start_n_clients hat status: Client client21 startet mit: <0.83.0>. 
+"22.04 10:54:07,954|" start_n_clients hat status: Client client20 startet mit: <0.84.0>. 
+"22.04 10:54:07,954|" start_n_clients hat status: Client client19 startet mit: <0.86.0>. 
+"22.04 10:54:07,954|" start_n_clients hat status: Client client18 startet mit: <0.87.0>. 
+"22.04 10:54:07,954|" start_n_clients hat status: Client client17 startet mit: <0.88.0>. 
+"22.04 10:54:07,954|" start_n_clients hat status: Client client16 startet mit: <0.89.0>. 
+"22.04 10:54:07,954|" start_n_clients hat status: Client client15 startet mit: <0.90.0>. 
+"22.04 10:54:07,954|" start_n_clients hat status: Client client14 startet mit: <0.91.0>. 
+"22.04 10:54:07,954|" start_n_clients hat status: Client client13 startet mit: <0.92.0>. 
+"22.04 10:54:07,954|" start_n_clients hat status: Client client12 startet mit: <0.93.0>. 
+"22.04 10:54:07,954|" start_n_clients hat status: Client client11 startet mit: <0.95.0>. 
+"22.04 10:54:07,954|" start_n_clients hat status: Client client10 startet mit: <0.96.0>. 
+"22.04 10:54:07,954|" start_n_clients hat status: Client client9 startet mit: <0.97.0>. 
+"22.04 10:54:07,954|" start_n_clients hat status: Client client8 startet mit: <0.99.0>. 
+"22.04 10:54:07,954|" start_n_clients hat status: Client client7 startet mit: <0.100.0>. 
+"22.04 10:54:07,954|" start_n_clients hat status: Client client6 startet mit: <0.102.0>. 
+"22.04 10:54:07,954|" start_n_clients hat status: Client client5 startet mit: <0.103.0>. 
+"22.04 10:54:07,954|" start_n_clients hat status: Client client4 startet mit: <0.104.0>. 
+"22.04 10:54:07,954|" start_n_clients hat status: Client client3 startet mit: <0.106.0>. 
+"22.04 10:54:07,954|" start_n_clients hat status: Client client2 startet mit: <0.107.0>. 
+"22.04 10:54:07,954|" start_n_clients hat status: Client client1 startet mit: <0.108.0>. 
+"22.04 10:54:07,954|" start_n_clients hat status: Alle Clients sind gestartet: [<0.108.0>,<0.107.0>,<0.106.0>,<0.104.0>,
+                              <0.103.0>,<0.102.0>,<0.100.0>,<0.99.0>,<0.97.0>,
+                              <0.96.0>,<0.95.0>,<0.93.0>,<0.92.0>,<0.91.0>,
+                              <0.90.0>,<0.89.0>,<0.88.0>,<0.87.0>,<0.86.0>,
+                              <0.84.0>,<0.83.0>,<0.82.0>,<0.81.0>,<0.80.0>,
+                              <0.79.0>]. 
+"22.04 10:54:32,508|" loop_leser hat status: Empfagene Nummer: 26, Msg: 26te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:32,556|" loop_leser hat status: Empfagene Nummer: 26, Msg: 26te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:32,601|" loop_leser hat status: Empfagene Nummer: 26, Msg: 26te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:32,633|" loop_leser hat status: Empfagene Nummer: 26, Msg: 26te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:32,696|" loop_leser hat status: Empfagene Nummer: 26, Msg: 26te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:32,758|" loop_leser hat status: Empfagene Nummer: 26, Msg: 26te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:32,790|" loop_leser hat status: Empfagene Nummer: 26, Msg: 26te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:32,851|" loop_leser hat status: Empfagene Nummer: 26, Msg: 26te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:32,914|" loop_leser hat status: Empfagene Nummer: 26, Msg: 26te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:33,117|" loop_leser hat status: Empfagene Nummer: 26, Msg: 26te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:33,242|" loop_leser hat status: Empfagene Nummer: 26, Msg: 26te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:33,273|" loop_leser hat status: Empfagene Nummer: 26, Msg: 26te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:33,569|" loop_leser hat status: Empfagene Nummer: 26, Msg: 26te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:33,648|" loop_leser hat status: Empfagene Nummer: 26, Msg: 26te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:33,741|" loop_leser hat status: Empfagene Nummer: 26, Msg: 26te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:33,772|" loop_leser hat status: Empfagene Nummer: 26, Msg: 26te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:33,804|" loop_leser hat status: Empfagene Nummer: 26, Msg: 26te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:33,850|" loop_leser hat status: Empfagene Nummer: 26, Msg: 26te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:33,897|" loop_leser hat status: Empfagene Nummer: 26, Msg: 26te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:33,944|" loop_leser hat status: Empfagene Nummer: 26, Msg: 26te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:33,991|" loop_leser hat status: Empfagene Nummer: 26, Msg: 26te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:34,038|" loop_leser hat status: Empfagene Nummer: 26, Msg: 26te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:34,069|" loop_leser hat status: Empfagene Nummer: 26, Msg: 26te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:34,147|" loop_leser hat status: Empfagene Nummer: 26, Msg: 26te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:34,161|" loop_leser hat status: Empfagene Nummer: 26, Msg: 26te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:34,770|" loop_leser hat status: Empfagene Nummer: 27, Msg: 27te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:35,191|" loop_leser hat status: Empfagene Nummer: 27, Msg: 27te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:35,472|" loop_leser hat status: Empfagene Nummer: 28, Msg: 28te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:35,785|" loop_leser hat status: Empfagene Nummer: 27, Msg: 27te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:35,972|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:36,175|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:36,237|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:36,423|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:36,548|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:36,798|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:36,877|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:37,016|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:37,173|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:37,750|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:38,000|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:38,046|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:38,874|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:38,905|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:38,952|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:38,983|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:39,139|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:39,185|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:39,248|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:39,278|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:39,342|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:39,403|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:39,419|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:39,467|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:39,512|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:41,198|" loop_leser hat status: Empfagene Nummer: 199, Msg: 199te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:41,417|" loop_leser hat status: Empfagene Nummer: 199, Msg: 199te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:41,463|" loop_leser hat status: Empfagene Nummer: 199, Msg: 199te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:41,665|" loop_leser hat status: Empfagene Nummer: 203, Msg: 203te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:41,790|" loop_leser hat status: Empfagene Nummer: 210, Msg: 210te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:41,994|" loop_leser hat status: Empfagene Nummer: 264, Msg: 264te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:42,087|" loop_leser hat status: Empfagene Nummer: 264, Msg: 264te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:42,337|" loop_leser hat status: Empfagene Nummer: 264, Msg: 264te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:42,805|" loop_leser hat status: Empfagene Nummer: 264, Msg: 264te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:43,335|" loop_leser hat status: Empfagene Nummer: 264, Msg: 264te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:43,601|" loop_leser hat status: Empfagene Nummer: 264, Msg: 264te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:43,741|" loop_leser hat status: Empfagene Nummer: 264, Msg: 264te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:44,177|" loop_leser hat status: Empfagene Nummer: 270, Msg: 270te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:44,270|" loop_leser hat status: Empfagene Nummer: 272, Msg: 272te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:44,286|" loop_leser hat status: Empfagene Nummer: 272, Msg: 272te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:44,302|" loop_leser hat status: Empfagene Nummer: 272, Msg: 272te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:44,334|" loop_leser hat status: Empfagene Nummer: 272, Msg: 272te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:44,334|" loop_leser hat status: Empfagene Nummer: 272, Msg: 272te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:44,395|" loop_leser hat status: Empfagene Nummer: 279, Msg: 279te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:44,427|" loop_leser hat status: Empfagene Nummer: 279, Msg: 279te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:44,536|" loop_leser hat status: Empfagene Nummer: 279, Msg: 279te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:44,599|" loop_leser hat status: Empfagene Nummer: 279, Msg: 279te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:44,693|" loop_leser hat status: Empfagene Nummer: 279, Msg: 279te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:44,724|" loop_leser hat status: Empfagene Nummer: 279, Msg: 279te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:45,004|" loop_leser hat status: Empfagene Nummer: 279, Msg: 279te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:46,409|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:46,657|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:46,705|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:46,782|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:46,923|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:47,345|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:47,423|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:47,516|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:47,922|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:48,265|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:48,639|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:48,685|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:49,326|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:49,357|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:49,373|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:49,403|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:49,419|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:49,435|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:49,560|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:49,591|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:49,653|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:49,762|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:49,794|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:49,841|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:49,903|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:51,524|" loop_leser hat status: Empfagene Nummer: 484, Msg: 484te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:51,899|" loop_leser hat status: Empfagene Nummer: 500, Msg: 500te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:51,962|" loop_leser hat status: Empfagene Nummer: 500, Msg: 500te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:52,165|" loop_leser hat status: Empfagene Nummer: 502, Msg: 502te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:52,805|" loop_leser hat status: Empfagene Nummer: 516, Msg: 516te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:52,867|" loop_leser hat status: Empfagene Nummer: 557, Msg: 557te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:52,929|" loop_leser hat status: Empfagene Nummer: 557, Msg: 557te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:53,101|" loop_leser hat status: Empfagene Nummer: 557, Msg: 557te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:53,429|" loop_leser hat status: Empfagene Nummer: 557, Msg: 557te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:53,943|" loop_leser hat status: Empfagene Nummer: 557, Msg: 557te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:54,536|" loop_leser hat status: Empfagene Nummer: 557, Msg: 557te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:54,613|" loop_leser hat status: Empfagene Nummer: 557, Msg: 557te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:55,082|" loop_leser hat status: Empfagene Nummer: 569, Msg: 569te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:55,113|" loop_leser hat status: Empfagene Nummer: 569, Msg: 569te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:55,145|" loop_leser hat status: Empfagene Nummer: 569, Msg: 569te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:55,191|" loop_leser hat status: Empfagene Nummer: 569, Msg: 569te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:55,223|" loop_leser hat status: Empfagene Nummer: 569, Msg: 569te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:55,238|" loop_leser hat status: Empfagene Nummer: 569, Msg: 569te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:55,363|" loop_leser hat status: Empfagene Nummer: 577, Msg: 577te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:55,394|" loop_leser hat status: Empfagene Nummer: 577, Msg: 577te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:55,472|" loop_leser hat status: Empfagene Nummer: 577, Msg: 577te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:55,550|" loop_leser hat status: Empfagene Nummer: 577, Msg: 577te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:55,581|" loop_leser hat status: Empfagene Nummer: 577, Msg: 577te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:55,644|" loop_leser hat status: Empfagene Nummer: 587, Msg: 587te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:55,706|" loop_leser hat status: Empfagene Nummer: 587, Msg: 587te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:54:56,970|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:57,687|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:57,734|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:58,999|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:58,218|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:58,435|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:58,530|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:58,733|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:59,076|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:59,387|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:59,855|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:54:59,887|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:00,324|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:00,339|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:00,402|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:00,433|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:00,464|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:00,495|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:00,620|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:00,651|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:00,761|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:01,088|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:01,104|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:01,151|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:01,274|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:02,508|" loop_leser hat status: Empfagene Nummer: 785, Msg: 785te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:03,006|" loop_leser hat status: Empfagene Nummer: 799, Msg: 799te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:03,038|" loop_leser hat status: Empfagene Nummer: 799, Msg: 799te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:03,335|" loop_leser hat status: Empfagene Nummer: 805, Msg: 805te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:03,927|" loop_leser hat status: Empfagene Nummer: 816, Msg: 816te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:03,990|" loop_leser hat status: Empfagene Nummer: 816, Msg: 816te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:04,099|" loop_leser hat status: Empfagene Nummer: 852, Msg: 852te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:04,379|" loop_leser hat status: Empfagene Nummer: 852, Msg: 852te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:04,566|" loop_leser hat status: Empfagene Nummer: 852, Msg: 852te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:04,863|" loop_leser hat status: Empfagene Nummer: 852, Msg: 852te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:05,284|" loop_leser hat status: Empfagene Nummer: 852, Msg: 852te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:05,347|" loop_leser hat status: Empfagene Nummer: 852, Msg: 852te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:05,893|" loop_leser hat status: Empfagene Nummer: 868, Msg: 868te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:05,923|" loop_leser hat status: Empfagene Nummer: 868, Msg: 868te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:06,064|" loop_leser hat status: Empfagene Nummer: 868, Msg: 868te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:06,096|" loop_leser hat status: Empfagene Nummer: 868, Msg: 868te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:06,111|" loop_leser hat status: Empfagene Nummer: 868, Msg: 868te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:06,157|" loop_leser hat status: Empfagene Nummer: 868, Msg: 868te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:06,423|" loop_leser hat status: Empfagene Nummer: 877, Msg: 877te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:06,423|" loop_leser hat status: Empfagene Nummer: 877, Msg: 877te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:06,516|" loop_leser hat status: Empfagene Nummer: 877, Msg: 877te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:06,579|" loop_leser hat status: Empfagene Nummer: 877, Msg: 877te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:06,611|" loop_leser hat status: Empfagene Nummer: 877, Msg: 877te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:06,625|" loop_leser hat status: Empfagene Nummer: 877, Msg: 877te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:06,812|" loop_leser hat status: Empfagene Nummer: 886, Msg: Error Nachricht zum Lücke von 885 bis 886 zu füllen. 
+"22.04 10:55:07,937|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:08,249|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:08,294|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:08,514|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:08,748|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:08,810|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:08,887|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:09,231|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:09,387|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:09,730|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:10,151|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:10,214|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:10,729|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:10,760|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:10,854|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:10,870|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:10,885|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:10,931|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:11,056|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:11,072|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:11,088|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:11,135|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:11,165|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:11,181|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:11,260|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:11,992|" loop_leser hat status: Empfagene Nummer: 1084, Msg: 1084te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:12,804|" loop_leser hat status: Empfagene Nummer: 1097, Msg: 1097te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:12,835|" loop_leser hat status: Empfagene Nummer: 1097, Msg: 1097te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:13,334|" loop_leser hat status: Empfagene Nummer: 1110, Msg: 1110te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:13,552|" loop_leser hat status: Empfagene Nummer: 1116, Msg: 1116te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:13,631|" loop_leser hat status: Empfagene Nummer: 1116, Msg: 1116te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:13,661|" loop_leser hat status: Empfagene Nummer: 1116, Msg: 1116te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:13,990|" loop_leser hat status: Empfagene Nummer: 1152, Msg: 1152te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:14,177|" loop_leser hat status: Empfagene Nummer: 1152, Msg: 1152te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:14,815|" loop_leser hat status: Empfagene Nummer: 1152, Msg: 1152te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:15,097|" loop_leser hat status: Empfagene Nummer: 1152, Msg: 1152te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:15,143|" loop_leser hat status: Empfagene Nummer: 1152, Msg: 1152te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:15,425|" loop_leser hat status: Empfagene Nummer: 1166, Msg: 1166te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:15,503|" loop_leser hat status: Empfagene Nummer: 1166, Msg: 1166te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:15,689|" loop_leser hat status: Empfagene Nummer: 1178, Msg: 1178te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:15,737|" loop_leser hat status: Empfagene Nummer: 1178, Msg: 1178te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:15,814|" loop_leser hat status: Empfagene Nummer: 1178, Msg: 1178te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:15,862|" loop_leser hat status: Empfagene Nummer: 1178, Msg: 1178te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:16,018|" loop_leser hat status: Empfagene Nummer: 1178, Msg: 1178te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:16,048|" loop_leser hat status: Empfagene Nummer: 1178, Msg: 1178te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:16,080|" loop_leser hat status: Empfagene Nummer: 1178, Msg: 1178te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:16,111|" loop_leser hat status: Empfagene Nummer: 1178, Msg: 1178te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:16,157|" loop_leser hat status: Empfagene Nummer: 1178, Msg: 1178te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:16,205|" loop_leser hat status: Empfagene Nummer: 1178, Msg: 1178te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:16,298|" loop_leser hat status: Empfagene Nummer: 1178, Msg: 1178te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:17,624|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:17,952|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:17,999|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:18,607|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:18,810|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:18,903|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:18,950|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:19,294|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:19,355|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:20,026|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:20,074|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:20,136|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:20,526|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:20,542|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:20,665|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:20,713|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:20,729|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:20,776|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:20,915|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:20,947|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:20,963|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:20,994|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:21,010|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:21,056|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:21,088|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:22,367|" loop_leser hat status: Empfagene Nummer: 1380, Msg: 1380te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:22,819|" loop_leser hat status: Empfagene Nummer: 1395, Msg: 1395te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:22,882|" loop_leser hat status: Empfagene Nummer: 1395, Msg: 1395te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:23,536|" loop_leser hat status: Empfagene Nummer: 1410, Msg: Error Nachricht zum Lücke von 1410 bis 1410 zu füllen. 
+"22.04 10:55:23,693|" loop_leser hat status: Empfagene Nummer: 1451, Msg: 1451te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:23,770|" loop_leser hat status: Empfagene Nummer: 1451, Msg: 1451te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:23,849|" loop_leser hat status: Empfagene Nummer: 1451, Msg: 1451te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:24,129|" loop_leser hat status: Empfagene Nummer: 1451, Msg: 1451te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:24,191|" loop_leser hat status: Empfagene Nummer: 1451, Msg: 1451te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:25,206|" loop_leser hat status: Empfagene Nummer: 1451, Msg: 1451te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:25,253|" loop_leser hat status: Empfagene Nummer: 1451, Msg: 1451te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:25,362|" loop_leser hat status: Empfagene Nummer: 1451, Msg: 1451te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:25,657|" loop_leser hat status: Empfagene Nummer: 1463, Msg: 1463te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:25,798|" loop_leser hat status: Empfagene Nummer: 1465, Msg: 1465te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:25,861|" loop_leser hat status: Empfagene Nummer: 1478, Msg: 1478te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:25,923|" loop_leser hat status: Empfagene Nummer: 1478, Msg: 1478te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:25,986|" loop_leser hat status: Empfagene Nummer: 1478, Msg: 1478te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:26,048|" loop_leser hat status: Empfagene Nummer: 1478, Msg: 1478te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:26,500|" loop_leser hat status: Empfagene Nummer: 1478, Msg: 1478te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:26,548|" loop_leser hat status: Empfagene Nummer: 1478, Msg: 1478te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:26,562|" loop_leser hat status: Empfagene Nummer: 1478, Msg: 1478te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:26,593|" loop_leser hat status: Empfagene Nummer: 1478, Msg: 1478te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:26,625|" loop_leser hat status: Empfagene Nummer: 1478, Msg: 1478te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:26,657|" loop_leser hat status: Empfagene Nummer: 1478, Msg: 1478te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:26,672|" loop_leser hat status: Empfagene Nummer: 1478, Msg: 1478te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:28,044|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:28,919|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:28,966|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:29,714|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:29,839|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:29,933|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:29,995|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:30,260|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:30,306|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:31,117|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:31,149|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:31,290|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:31,633|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:31,726|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:31,805|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:31,819|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:31,898|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:31,960|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:32,086|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:32,117|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:32,147|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:32,163|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:32,179|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:32,195|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:32,491|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:33,379|" loop_leser hat status: Empfagene Nummer: 1681, Msg: 1681te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:33,613|" loop_leser hat status: Empfagene Nummer: 1696, Msg: 1696te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:33,661|" loop_leser hat status: Empfagene Nummer: 1696, Msg: 1696te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:34,004|" loop_leser hat status: Empfagene Nummer: 1710, Msg: 1710te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:34,223|" loop_leser hat status: Empfagene Nummer: 1716, Msg: 1716te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:34,441|" loop_leser hat status: Empfagene Nummer: 1754, Msg: 1754te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:34,550|" loop_leser hat status: Empfagene Nummer: 1754, Msg: 1754te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:34,738|" loop_leser hat status: Empfagene Nummer: 1754, Msg: 1754te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:34,753|" loop_leser hat status: Empfagene Nummer: 1754, Msg: 1754te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:35,627|" loop_leser hat status: Empfagene Nummer: 1754, Msg: 1754te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:35,657|" loop_leser hat status: Empfagene Nummer: 1754, Msg: 1754te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:35,766|" loop_leser hat status: Empfagene Nummer: 1754, Msg: 1754te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:36,125|" loop_leser hat status: Empfagene Nummer: 1765, Msg: 1765te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:36,234|" loop_leser hat status: Empfagene Nummer: 1783, Msg: 1783te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:36,298|" loop_leser hat status: Empfagene Nummer: 1783, Msg: 1783te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:36,312|" loop_leser hat status: Empfagene Nummer: 1783, Msg: 1783te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:36,750|" loop_leser hat status: Empfagene Nummer: 1783, Msg: 1783te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:36,827|" loop_leser hat status: Empfagene Nummer: 1783, Msg: 1783te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:36,937|" loop_leser hat status: Empfagene Nummer: 1783, Msg: 1783te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:36,968|" loop_leser hat status: Empfagene Nummer: 1783, Msg: 1783te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:37,014|" loop_leser hat status: Empfagene Nummer: 1783, Msg: 1783te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:37,046|" loop_leser hat status: Empfagene Nummer: 1783, Msg: 1783te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:37,062|" loop_leser hat status: Empfagene Nummer: 1783, Msg: 1783te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:37,093|" loop_leser hat status: Empfagene Nummer: 1783, Msg: 1783te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:37,187|" loop_leser hat status: Empfagene Nummer: 1783, Msg: 1783te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:39,121|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:39,667|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:39,745|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:40,229|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:40,306|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:40,399|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:40,524|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:40,712|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:40,744|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:41,617|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:41,694|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:41,710|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:42,444|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:42,491|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:42,522|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:42,538|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:42,631|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:42,663|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:42,725|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:42,756|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:42,786|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:42,802|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:42,819|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:42,834|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:42,897|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:44,722|" loop_leser hat status: Empfagene Nummer: 1980, Msg: 1980te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:44,925|" loop_leser hat status: Empfagene Nummer: 1996, Msg: 1996te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:45,002|" loop_leser hat status: Empfagene Nummer: 1996, Msg: 1996te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:45,502|" loop_leser hat status: Empfagene Nummer: 2009, Msg: 2009te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:45,548|" loop_leser hat status: Empfagene Nummer: 2011, Msg: 2011te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:45,720|" loop_leser hat status: Empfagene Nummer: 2057, Msg: 2057te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:45,798|" loop_leser hat status: Empfagene Nummer: 2057, Msg: 2057te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:46,000|" loop_leser hat status: Empfagene Nummer: 2057, Msg: 2057te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:46,032|" loop_leser hat status: Empfagene Nummer: 2057, Msg: 2057te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:46,718|" loop_leser hat status: Empfagene Nummer: 2057, Msg: 2057te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:46,734|" loop_leser hat status: Empfagene Nummer: 2057, Msg: 2057te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:46,734|" loop_leser hat status: Empfagene Nummer: 2057, Msg: 2057te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:46,843|" loop_leser hat status: Empfagene Nummer: 2065, Msg: 2065te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:47,109|" loop_leser hat status: Empfagene Nummer: 2082, Msg: 2082te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:47,155|" loop_leser hat status: Empfagene Nummer: 2082, Msg: 2082te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:47,187|" loop_leser hat status: Empfagene Nummer: 2082, Msg: 2082te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:47,374|" loop_leser hat status: Empfagene Nummer: 2082, Msg: 2082te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:47,435|" loop_leser hat status: Empfagene Nummer: 2082, Msg: 2082te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:47,530|" loop_leser hat status: Empfagene Nummer: 2082, Msg: 2082te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:47,544|" loop_leser hat status: Empfagene Nummer: 2082, Msg: 2082te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:47,608|" loop_leser hat status: Empfagene Nummer: 2082, Msg: 2082te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:47,717|" loop_leser hat status: Empfagene Nummer: 2082, Msg: 2082te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:47,778|" loop_leser hat status: Empfagene Nummer: 2082, Msg: 2082te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:47,794|" loop_leser hat status: Empfagene Nummer: 2082, Msg: 2082te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:47,857|" loop_leser hat status: Empfagene Nummer: 2082, Msg: 2082te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:49,199|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:49,464|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:49,527|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:50,056|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:50,165|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:50,524|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:50,681|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:50,712|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:50,758|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:51,726|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:51,804|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:51,835|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:52,179|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:52,257|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:52,288|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:52,397|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:52,536|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:52,631|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:52,756|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:52,786|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:52,818|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:52,959|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:52,990|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:53,004|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:53,068|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:55:55,407|" loop_leser hat status: Empfagene Nummer: 2283, Msg: 2283te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:55,641|" loop_leser hat status: Empfagene Nummer: 2293, Msg: 2293te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:55,657|" loop_leser hat status: Empfagene Nummer: 2293, Msg: 2293te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:56,187|" loop_leser hat status: Empfagene Nummer: 2309, Msg: 2309te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:56,312|" loop_leser hat status: Empfagene Nummer: 2313, Msg: 2313te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:56,421|" loop_leser hat status: Empfagene Nummer: 2357, Msg: 2357te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:56,952|" loop_leser hat status: Empfagene Nummer: 2357, Msg: 2357te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:56,983|" loop_leser hat status: Empfagene Nummer: 2357, Msg: 2357te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:57,030|" loop_leser hat status: Empfagene Nummer: 2357, Msg: 2357te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:58,075|" loop_leser hat status: Empfagene Nummer: 2357, Msg: 2357te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:58,107|" loop_leser hat status: Empfagene Nummer: 2357, Msg: 2357te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:58,121|" loop_leser hat status: Empfagene Nummer: 2357, Msg: 2357te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:58,684|" loop_leser hat status: Empfagene Nummer: 2365, Msg: 2365te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:58,823|" loop_leser hat status: Empfagene Nummer: 2365, Msg: 2365te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:58,855|" loop_leser hat status: Empfagene Nummer: 2365, Msg: 2365te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:58,918|" loop_leser hat status: Empfagene Nummer: 2380, Msg: 2380te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:59,010|" loop_leser hat status: Empfagene Nummer: 2380, Msg: 2380te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:59,058|" loop_leser hat status: Empfagene Nummer: 2380, Msg: 2380te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:59,183|" loop_leser hat status: Empfagene Nummer: 2380, Msg: 2380te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:59,214|" loop_leser hat status: Empfagene Nummer: 2380, Msg: 2380te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:59,245|" loop_leser hat status: Empfagene Nummer: 2380, Msg: 2380te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:59,355|" loop_leser hat status: Empfagene Nummer: 2380, Msg: 2380te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:59,401|" loop_leser hat status: Empfagene Nummer: 2380, Msg: 2380te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:59,417|" loop_leser hat status: Empfagene Nummer: 2380, Msg: 2380te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:55:59,448|" loop_leser hat status: Empfagene Nummer: 2380, Msg: 2380te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:56:01,024|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:56:01,163|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:56:01,211|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:56:01,726|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:56:01,788|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:56:01,929|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:56:02,116|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:56:02,147|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:56:02,443|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:56:03,676|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:56:03,706|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:56:03,738|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:56:03,863|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:56:03,940|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:56:03,956|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:56:04,018|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:56:04,050|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:56:04,159|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:56:04,206|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:56:04,206|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:56:04,222|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:56:04,269|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:56:04,300|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:56:04,314|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:56:04,331|" loop_leser hat status: Empfagene Nummer: 0, Msg: Angeforderte Nachricht nicht vorhanden.. 
+"22.04 10:56:05,797|" loop_leser hat status: Empfagene Nummer: 2582, Msg: 2582te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:56:05,843|" loop_leser hat status: Empfagene Nummer: 2582, Msg: 2582te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:56:06,640|" loop_leser hat status: Empfagene Nummer: 2601, Msg: 2601te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:56:06,733|" loop_leser hat status: Empfagene Nummer: 2606, Msg: 2606te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:56:06,780|" loop_leser hat status: Empfagene Nummer: 2606, Msg: 2606te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:56:06,935|" loop_leser hat status: Empfagene Nummer: 2611, Msg: 2611te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:56:07,264|" loop_leser hat status: Empfagene Nummer: 2660, Msg: 2660te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:56:07,326|" loop_leser hat status: Empfagene Nummer: 2660, Msg: 2660te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:56:07,498|" loop_leser hat status: Empfagene Nummer: 2660, Msg: 2660te Nachricht von PC/PraGr/Team labXY/2/3 erstellt. 
+"22.04 10:56:07,980|" killAllClients hat status: Der Client <0.108.0> wurde zur Selbstzerstörung überredet. 
+"22.04 10:56:07,980|" killAllClients hat status: Der Client <0.107.0> wurde zur Selbstzerstörung überredet. 
+"22.04 10:56:07,980|" killAllClients hat status: Der Client <0.106.0> wurde zur Selbstzerstörung überredet. 
+"22.04 10:56:07,980|" killAllClients hat status: Der Client <0.104.0> wurde zur Selbstzerstörung überredet. 
+"22.04 10:56:07,980|" killAllClients hat status: Der Client <0.103.0> wurde zur Selbstzerstörung überredet. 
+"22.04 10:56:07,980|" killAllClients hat status: Der Client <0.102.0> wurde zur Selbstzerstörung überredet. 
+"22.04 10:56:07,980|" killAllClients hat status: Der Client <0.100.0> wurde zur Selbstzerstörung überredet. 
+"22.04 10:56:07,980|" killAllClients hat status: Der Client <0.99.0> wurde zur Selbstzerstörung überredet. 
+"22.04 10:56:07,980|" killAllClients hat status: Der Client <0.97.0> wurde zur Selbstzerstörung überredet. 
+"22.04 10:56:07,980|" killAllClients hat status: Der Client <0.96.0> wurde zur Selbstzerstörung überredet. 
+"22.04 10:56:07,980|" killAllClients hat status: Der Client <0.95.0> wurde zur Selbstzerstörung überredet. 
+"22.04 10:56:07,980|" killAllClients hat status: Der Client <0.93.0> wurde zur Selbstzerstörung überredet. 
+"22.04 10:56:07,980|" killAllClients hat status: Der Client <0.92.0> wurde zur Selbstzerstörung überredet. 
+"22.04 10:56:07,980|" killAllClients hat status: Der Client <0.91.0> wurde zur Selbstzerstörung überredet. 
+"22.04 10:56:07,980|" killAllClients hat status: Der Client <0.90.0> wurde zur Selbstzerstörung überredet. 
+"22.04 10:56:07,980|" killAllClients hat status: Der Client <0.89.0> wurde zur Selbstzerstörung überredet. 
+"22.04 10:56:07,980|" killAllClients hat status: Der Client <0.88.0> wurde zur Selbstzerstörung überredet. 
+"22.04 10:56:07,980|" killAllClients hat status: Der Client <0.87.0> wurde zur Selbstzerstörung überredet. 
+"22.04 10:56:07,980|" killAllClients hat status: Der Client <0.86.0> wurde zur Selbstzerstörung überredet. 
+"22.04 10:56:07,980|" killAllClients hat status: Der Client <0.84.0> wurde zur Selbstzerstörung überredet. 
+"22.04 10:56:07,980|" killAllClients hat status: Der Client <0.83.0> wurde zur Selbstzerstörung überredet. 
+"22.04 10:56:07,980|" killAllClients hat status: Der Client <0.82.0> wurde zur Selbstzerstörung überredet. 
+"22.04 10:56:07,980|" killAllClients hat status: Der Client <0.81.0> wurde zur Selbstzerstörung überredet. 
+"22.04 10:56:07,980|" killAllClients hat status: Der Client <0.80.0> wurde zur Selbstzerstörung überredet. 
+"22.04 10:56:07,980|" killAllClients hat status: Der Client <0.79.0> wurde zur Selbstzerstörung überredet. 
+"22.04 10:56:07,980|" killAllClients hat status: Alle Clients wurden getötet. 

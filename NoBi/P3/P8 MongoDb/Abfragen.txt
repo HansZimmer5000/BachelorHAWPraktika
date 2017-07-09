@@ -1,0 +1,41 @@
+1. Name = Augsburg
+db.fussball.find({"name": "Augsburg"})
+
+2. Nike-Vereine mit mind. schwarz
+db.fussball.find({"farben": "schwarz", "nike": true})
+
+3. Nike-Vereine mit weiss und grün
+db.fussball.find({$and: [{"farben": "gruen"}, {"farben": "weiss"}], "nike": true})
+
+4. Nike-Vereine mit weiss oder grün
+db.fussball.find({$or: [{"farben": "gruen"}, {"farben": "weiss"}], "nike": true})
+
+5. Vereine mit höchsten Tabellenplatz
+db.fussball.find().sort({"Tabellenplatz":1}).limit(1)
+
+6. Alle die nicht im Abstieg sind. (Ohne Relegation)
+db.fussball.find({"Tabellenplatz": {$lt: 17}})
+
+7. Beliebige Anfrag mit _id unterdrückt ({_id:0})
+db.fussball.find({"Tabellenplatz": {$lt: 17}},{"_id":0})
+
+8. db.fussball.update({name: "Augsburg"}, {"Tabellenplatz": 1}), was passiert? Und wieder zurück in Ursprung (Platz 12)
+WriteResult({ "nMatched" : 1, "nUpserted" : 0, "nModified" : 1 })
+Der Inhalt wird komplett Ersetzt, "Augsburg" Eintrag nach Update: { "_id" : ObjectId("591037c2d0ad591c4f097e50"), "Tabellenplatz" : 1 }
+Ursprung: db.fussball.update({"Tabellenplatz": 1}, {"name": "Augsburg", "gruendung": "1907-8-8", "farben": ["rot", "weiss"], "Tabellenplatz": 12,  "nike": true})
+
+------ Ab Hier ÄNDERUNGEN!
+
+9. Leverkusen auf Platz 2
+db.fussball.update({"name": "Leverkusen"},{$set: {"Tabellenplatz": 2}})
+
+
+10. Werder um eins nach vorne
+db.fussball.update({"name": "Werder"},{$inc: {"Tabellenplatz": -1}})
+
+
+11. HSV steigt nicht ab.
+
+
+12. Vereine mit weiss, Waschtemperatur 90.
+

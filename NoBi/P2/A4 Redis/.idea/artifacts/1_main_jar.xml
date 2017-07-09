@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="1_main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/1_main_jar</output-path>
+    <root id="archive" name="1_main.jar">
+      <element id="module-output" name="1_main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/redis.clients/jedis/2.9.0/292bc9cc26553acd3cccc26f2f95620bf88a04c2/jedis-2.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-pool2/2.4.2/e5f4f28f19d57716fbc3989d7a357ebf1e454fea/commons-pool2-2.4.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,60 @@
+////////////////////////////////////////////////////////
+			WINDOWS on Michaels Laptop
+////////////////////////////////////////////////////////
+
+Zookeeper Server (Port 2181, bzw. in zookeeper.properties schauen):
+C:\Users\Michael\Desktop\kafka_2.11-0.10.2.0\bin\windows/zookeeper-server-start.bat C:\Users\Michael\Desktop\kafka_2.11-0.10.2.0\config/zookeeper.properties
+
+
+Kafka Server (Port 9092, bzw. in server.properties schauen):
+C:\Users\Michael\Desktop\kafka_2.11-0.10.2.0\bin\windows/kafka-server-start.bat C:\Users\Michael\Desktop\kafka_2.11-0.10.2.0\config/server.properties
+
+Topic test (ggf. schon vorhanden, checken mit bin/kafka-topics.sh --list--zookeeper localhost:2181):
+C:\Users\Michael\Desktop\kafka_2.11-0.10.2.0\bin\windows/kafka-topics.bat --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic test
+
+
+Producer
+C:\Users\Michael\Desktop\kafka_2.11-0.10.2.0\bin\windows/kafka-console-producer.bat --broker-list localhost:9092 --topic test
+
+Consumer
+C:\Users\Michael\Desktop\kafka_2.11-0.10.2.0\bin\windows/kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic test --from-beginning
+
+Stream
+python C:\Users\Michael\IdeaProjects\Nobi17\P5/stream.py
+
+Spark Application
+C:\Users\Michael\Sparktest\spark-2.1.1-bin-hadoop2.4\bin/spark-submit --jars C:\Users\Michael\Desktop\kafka_2.11-0.10.2.0/spark-streaming-kafka-0-8-assembly_2.11-2.1.1.jar C:\Users\Michael\IdeaProjects\Nobi17\P5/spark.py 
+
+Collect all the results (Creates or appends in ..\Nobi17\P5 a result.txt file):
+C:\Users\Michael\IdeaProjects\Nobi17\P5\result.py
+
+/////////////////////////////
+			LINUX
+/////////////////////////////
+
+Zookeeper Server (Port 2181, bzw. in zookeeper.properties schauen):
+> bin/zookeeper-server-start.sh config/zookeeper.properties
+
+
+Kafka Server (Port 9092, bzw. in server.properties schauen):
+> bin/kafka-server-start.sh config/server.properties
+
+Topic test (ggf. schon vorhanden, checken mit bin/kafka-topics.sh --list--zookeeper localhost:2181):
+> bin/kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic test
+
+
+Producer
+> bin/kafka-console-producer.sh --broker-list localhost:9092 --topic test
+
+Consumer
+> bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic test --from-beginning
+
+Stream
+> python stream.py
+
+Spark Application
+> spark-submit --jars spark-streaming-kafka-0-8-assembly_2.11-2.1.1.jar spark.py
+
+
+Collect all the results (Creates or appends in ..\Nobi17\P5 a result.txt
+> result.py

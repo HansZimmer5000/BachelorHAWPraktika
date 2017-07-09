@@ -1,0 +1,40 @@
+Moin,
+
+im Anhang findet ihr den im Praktikum verwendeten SMTP/POP3-Server für
+lokales Testen.
+
+Zur Verwendung benötigt ihr neben dem JAR eine Datei Mailaccounts.txt
+und ein Verzeichnis maildirs.
+
+Mailaccounts.txt führt zeilenweise die zu akzeptierenden E-Mailaccounts
+auf. Eine Datei mit dem Inhalt
+
+test:testPasswort
+praktikum:praktikumPasswort
+
+würde also die Accounts test und praktikum mit den entsprechenden
+Passwörtern anlegen.
+
+Unter maildirs/ werden dann automatisch Postfächer für die einzelnen
+Accounts als Unterverzeichnisse angelegt.
+
+Mit einem Vereichnislayout
+
+maildirs/
+Mailaccounts.txt
+Mailserver.jar
+
+könnt ihr dann also über
+
+java -jar Mailserver.jar
+
+den Mailserver lokal starten und verwenden. Er lauscht auf den Ports 2500
+und 11000. Für die Zuordnung zu den Postfächern wird nur der Benutzername
+verwendet, d.h. mit obiger Mailaccounts.txt werden alle E-Mails an einen
+Nutzer "test" in beliebiger Domain (test@example.de, test@yahoo.com,
+test@haw-hamburg.de, ...) unter maildirs/test einsortiert.
+
+
+Grüße,
+
+        Christian Keil

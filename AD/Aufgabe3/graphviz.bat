@@ -1,0 +1,1 @@
+C:\Users\BOSS\Desktop\graphviz-2.38\release\bin dot -Tpng C:\Users\BOSS\Desktop\Uni\AD\AD3\Aufgabe_3\graph.dot > C:\Users\BOSS\Desktop\Uni\AD\AD3\Aufgabe_3\graph.png

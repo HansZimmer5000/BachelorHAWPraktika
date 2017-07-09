@@ -1,0 +1,6 @@
+In bin erstmal hbase start script ausführen.
+Dann thrift starten: ./hbase thrift start
+
+
+Neue Columnfamily hinzufuegen durch:
+alter 'tablename' 'newcf' In der Hbase shell

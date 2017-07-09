@@ -1,0 +1,5 @@
+Cypher Anfrage:
+Match (n {id:"/c/en/baseball"})-[r:IsA]-(n2) Return n,r,n2
+
+Config unter:
+/etc/neo4j

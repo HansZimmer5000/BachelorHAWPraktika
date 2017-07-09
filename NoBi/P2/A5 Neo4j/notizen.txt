@@ -1,0 +1,11 @@
+Neo4j starten, Browser: http://localhost:7474/browser/
+
+Ansehen mit:
+// Show all
+MATCH (n1)-[r]->(n2) RETURN r, n1, n2
+
+1) Wichtige fuer Nobi:
+MATCH (n1:Modul {name:"Nobi"}), (n1)-[r]->(n2) Return n2
+2) Nicht gebraucht Module:
+Match (n) WHERE NOT ()-[]->(n) Return n
+

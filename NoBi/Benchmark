@@ -1,0 +1,5 @@
+DB	/ 	LoC / 	Arbeitszeit / 	Ausführungszeit PLZ /	Ausführungszeit Stadt
+Mongo	23		2 Stunden		0.0000648498535156		0.0001220703125
+Redis	17		2 Stunden		0.000268936157227		0.000346183776855
+HBase	35		2 Stunden		0.0229840278625			0.709332942963
+Hbase v2												0.118168115616

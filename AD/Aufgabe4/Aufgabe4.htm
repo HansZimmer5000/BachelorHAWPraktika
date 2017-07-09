@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en">
+<html style="direction: ltr;" lang="de"><head> <meta http-equiv="Content-Type" content="text/html; charset=windows-1252"> <meta name="GENERATOR" content="Mozilla/4.78 [en] (Win98; U) [Netscape]"><title>Aufgabe 4</title><!-- file: Tutorial.html rmi10 author: T. Graf history: 20. March 1998 - file creation - graf --><!-- ----------------------------------------------------------------- --> <script language="JavaScript">
+function frage(antwort)
+{
+if ( antwort == "OnlineBank" )
+{
+alert("Richtig, die Klasse, welche die Remote Methoden anbietet muß mit dem rmic kompiliert werden!");
+}
+else
+{
+alert ("Leider falsch");
+}
+}
+</script></head>
+<body style="background-color: rgb(255, 255, 255); direction: ltr;"><h1>
+<font face="Arial,Helvetica">Aufgabe 4: Hashverfahren zur Suche in Texten<br>
+</font></h1><font style="font-family: Helvetica,Arial,sans-serif;" face="Arial,Helvetica">In
+dieser Aufgabe werden wir Hashing mit offener Adressierung
+implementieren und dazu verwenden, um Vorkommen bestimmter Wörter in
+Texten zu zählen</font><span style="font-family: Helvetica,Arial,sans-serif;">.</span><font style="font-family: Helvetica,Arial,sans-serif;" face="Arial"><b><br>
+</b></font><h2><font face="Arial"><b>Aufgabenstellung</b></font></h2>
+<span style="font-family: Helvetica,Arial,sans-serif;">Implementieren Sie:<br></span><ol><li><span style="font-family: Arial;">ADT <span style="font-weight: bold;">Hashmap</span>:&nbsp;</span><div style="margin-left: 40px;"><span style="font-family: Helvetica,Arial,sans-serif;"><span style="font-weight: bold;">Vorgabe</span>:<br></span><span style="font-family: Helvetica,Arial,sans-serif;">Funktional (nach außen)<br></span><ol><li><span style="font-family: Helvetica,Arial,sans-serif;">Das Programm
+wird mit den Parametern strategy und filename gestartet; als Strategie
+kann L (lineares Sondieren), Q (quadratisches Sondieren) oder B
+(Double-Hashing nach Brent) gewählt werden.</span></li><li><span style="font-family: Helvetica,Arial,sans-serif;">Als Dateien werden Text-Dateien im ASCII Format erwartet.</span></li><li><span style="font-family: Helvetica,Arial,sans-serif;">Das
+Programm zählt die Anzahl der Vorkommen aller Wörter in der Textdatei
+und gibt das Ergebnis in einer zugehörigen log-Datei aus.<br></span><br></li></ol><span style="font-family: Helvetica,Arial,sans-serif;">Technisch (nach innen)<br><br></span><ol><li><span style="font-family: Helvetica,Arial,sans-serif;">In der Hashmap werden die Wörter und ggf. deren Anzahl gespeichert.</span></li><li><span style="font-family: Helvetica,Arial,sans-serif;">Die Wörter bilden den Hashkey.<br></span></li></ol><span style="font-family: Helvetica,Arial,sans-serif;"></span></div><span style="font-family: Helvetica,Arial,sans-serif;"><span style="font-weight: bold;"></span></span><span style="font-family: Helvetica,Arial,sans-serif;"><span style="font-weight: bold;"></span></span><div style="margin-left: 40px;"><span style="font-family: Helvetica,Arial,sans-serif;"><span style="font-weight: bold;"><br>Objektmengen:</span> word, size,&nbsp;</span><span style="font-family: Helvetica,Arial,sans-serif;">hashmap, count, </span><span style="font-family: Helvetica,Arial,sans-serif;">strategy</span><br><span style="font-family: Helvetica,Arial,sans-serif;"><span style="font-weight: bold;">Operationen</span>: (semantische Signatur)</span><br><div style="margin-left: 40px;"><span style="font-family: Helvetica,Arial,sans-serif;">create: &nbsp;&nbsp;&nbsp; size&nbsp;</span><span style="font-family: Helvetica,Arial,sans-serif;">×&nbsp;</span><span style="font-family: Helvetica,Arial,sans-serif;">strategy</span><span style="font-family: Helvetica,Arial,sans-serif;"> &#8594; </span><span style="font-family: Helvetica,Arial,sans-serif;">hashmap</span><span style="font-family: Helvetica,Arial,sans-serif;"> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; </span><br><span style="font-family: Helvetica,Arial,sans-serif;"></span><span style="font-family: Helvetica,Arial,sans-serif;">insert: &nbsp;&nbsp;&nbsp; </span><span style="font-family: Helvetica,Arial,sans-serif;">hashmap</span><span style="font-family: Helvetica,Arial,sans-serif;"> ×&nbsp;</span><span style="font-family: Helvetica,Arial,sans-serif;">word</span><span style="font-family: Helvetica,Arial,sans-serif;"> &#8594; hashmap </span><br><span style="font-family: Helvetica,Arial,sans-serif;">find</span><span style="font-family: Helvetica,Arial,sans-serif;">: &nbsp;&nbsp;&nbsp; hashmap</span><span style="font-family: Helvetica,Arial,sans-serif;"></span><span style="font-family: Helvetica,Arial,sans-serif;"> ×&nbsp;</span><span style="font-family: Helvetica,Arial,sans-serif;">word</span><span style="font-family: Helvetica,Arial,sans-serif;"> &#8594; count</span><span style="font-family: Helvetica,Arial,sans-serif;"></span><span style="font-family: Helvetica,Arial,sans-serif;"></span><span style="font-family: Helvetica,Arial,sans-serif;"></span><span style="font-family: Helvetica,Arial,sans-serif;"></span><span style="font-family: Helvetica,Arial,sans-serif;"></span><br><span style="font-family: Helvetica,Arial,sans-serif;"></span></div><br></div></li><li><span style="font-family: Helvetica,Arial,sans-serif;">die Divisions-Rest-Methode als </span><span style="font-family: Helvetica,Arial,sans-serif;">Hashfunktion h(k) für Java-Strings</span><span style="font-family: Helvetica,Arial,sans-serif;"> unter Verwendung des Horner-Schemas, wie in der Vorlesung vorgestellt.</span></li><li><span style="font-family: Helvetica,Arial,sans-serif;">die Sondierungsstrategien s(j,k) für lineares bzw. quadratisches Sondieren.</span></li><li><span style="font-family: Helvetica,Arial,sans-serif;">die Suche (find) und das Einfügen (insert) für Hashing mit offener Adressierung.</span></li><li><span style="font-family: Helvetica,Arial,sans-serif;">die&nbsp;</span><span style="font-family: Helvetica,Arial,sans-serif;">Sondierungsstrategien s(j,k) für</span><span style="font-family: Helvetica,Arial,sans-serif;">
+Double-Hashing mit der zweiten Hashfunktion h'(k) = 1+(k mod m') mit m'
+= m-2, die analog zur Hashfunktion in Teil 2 unter Verwendung des
+Horner-Schemas zu realisieren ist.</span></li><li><span style="font-family: Helvetica,Arial,sans-serif;">das Suchen (find)&nbsp;</span><span style="font-family: Helvetica,Arial,sans-serif;">und das Einfügen (insert) für Hashing </span><span style="font-family: Helvetica,Arial,sans-serif;">nach Brent.</span></li><li><span style="font-family: Helvetica,Arial,sans-serif;">Zudem sind für die ADT Hashmap <span style="font-weight: bold;">JUnit-Tests</span>
+zu implementieren, die einfach ausgetauscht werden können (als *.jar
+z.B. hashmJUt.jar&nbsp;</span><span style="font-family: Helvetica,Arial,sans-serif;"></span><span style="font-family: Helvetica,Arial,sans-serif;">speichern,&nbsp;Vorgabe folgt noch). Beachten
+Sie: die Tests sollten auch Belastungen (große Datenmengen) und
+Grenzfälle beinhalten. Die Tests werden ausgetauscht werden. Als gemeinsame Vorlage: <a href="http://users.informatik.haw-hamburg.de/%7Eklauck/AlguDat/texta.txt">kurzer Text</a> (591[492] Zeichen, 100 Wörter), <a href="http://users.informatik.haw-hamburg.de/%7Eklauck/AlguDat/textb.txt">langer Text</a></span><span style="font-family: Helvetica,Arial,sans-serif;"> (60158[49949] Zeichen, 9790 Wörter),</span></li><li><span style="font-family: Helvetica,Arial,sans-serif;">Implementieren
+Sie eine Version der ADT, die die Laufzeit von insert und find misst.</span></li><li><span style="font-family: Helvetica,Arial,sans-serif;">Führen
+Sie mit den unter 8. implementierten Versionen aussagenkräftige
+Messungen durch. Erstellen Sie ein pdf, indem die Messungen dokumetiert
+werden (Versuchsaufbau, Resultate, Interpretation etc.).</span></li></ol><h2 style="font-family: Helvetica,Arial,sans-serif;">Abnahme<br>
+</h2><span style="font-family: Helvetica,Arial,sans-serif;"></span><span style="font-family: Helvetica,Arial,sans-serif;"></span><span style="font-family: Helvetica,Arial,sans-serif;">Da die Aufgaben des&nbsp;</span><span style="font-family: Helvetica,Arial,sans-serif;">Praktikums</span><span style="font-family: Helvetica,Arial,sans-serif;"> sehr frühzeitig im WWW zur
+Verfügung stehen, wird die Abnahme stark auf eine </span><span style="font-weight: bold; font-family: Helvetica,Arial,sans-serif;">vorbereitende Arbeit</span><span style="font-family: Helvetica,Arial,sans-serif;">
+aufgebaut.</span><br style="font-family: Helvetica,Arial,sans-serif;">
+
+<span style="font-family: Helvetica,Arial,sans-serif;">
+
+
+&nbsp;</span><br style="font-family: Helvetica,Arial,sans-serif;">
+
+
+
+
+<span style="font-weight: bold; font-family: Helvetica,Arial,sans-serif;">Bis Sonntag Abend</span><span style="font-weight: bold; font-family: Helvetica,Arial,sans-serif;"> 20:00 Uhr</span><span style="font-family: Helvetica,Arial,sans-serif;">
+vor Ihrem
+Praktikumstermin ist eine erste <a href="http://users.informatik.haw-hamburg.de/%7Eklauck/AlguDat/Entwurf.pdf">Skizze</a> der Aufgabe
+als
+*.pdf Dokument (<a href="http://users.informatik.haw-hamburg.de/%7Eklauck/AlguDat/PFormal.zip">Dokumentationskopf</a> nicht vergessen!) mir per E-Mail zuzusenden. Ggf.
+können offene Fragen mit gesendet
+werden.&nbsp;</span><span style="font-family: Helvetica,Arial,sans-serif;">Die Skizze <span style="font-weight: bold;">muss</span> grob beschreiben, wie Sie sich die Realisierung
+denken.</span><span style="font-family: Helvetica,Arial,sans-serif;">&nbsp;</span><span style="font-family: Helvetica,Arial,sans-serif;">Als
+erfolgreich wird eine Skizze bewertet, wenn Ihre Kenntnisse bzgl. der
+gestellten Aufgabe eine erfolgreiche Teilnahme an dem Praktikumstermin
+in Aussicht stellen.<br>&nbsp;<br></span><span style="font-family: Helvetica,Arial,sans-serif;">Am Tag des
+Praktikums findet eine Befragung von Teams statt. Die </span><span style="font-weight: bold; font-family: Helvetica,Arial,sans-serif;">Befragung
+muss erfolgreich absolviert werden</span><span style="font-family: Helvetica,Arial,sans-serif;">, um weiter
+am Praktikum teilnehmen zu können. Ist die Befragung nicht
+erfolgreich, gilt die Aufgabe als nicht erfolgreich bearbeitet.&nbsp;</span><span style="font-family: Helvetica,Arial,sans-serif;">Als
+erfolgreich wird die Befragung bewertet, wenn Ihre
+Kenntnisse bzgl. der gestellten Aufgabeausreichend oder besser sind.
+Dazu gehört insbesondere eine mindetsens ausreichende Kenntnis über Ihren gesamten Code.</span><span style="font-family: Helvetica,Arial,sans-serif;"> Bei der Befragung handelt es sich nicht um die Abnahme.<br></span><span style="font-family: Helvetica,Arial,sans-serif;"><br></span><span style="font-weight: bold; color: rgb(255, 0, 0); font-family: Helvetica,Arial,sans-serif;">Abgabe</span><span style="font-family: Helvetica,Arial,sans-serif;">:</span><span style="font-family: Helvetica,Arial,sans-serif;">&nbsp;Unmittelbar
+am Ende des Praktikums, spätestens bis 19:00 Uhr am selben Tag, ist von
+allen Teams der Code abzugeben. Zu dem
+Code gehören die Sourcedateien, die ggf. erzeugten&nbsp; *.log etc.
+Dateien, die während der Tests erzeugt wurden, und eine Readme.txt
+Datei, in der ausführlich beschrieben wird, wie die Software zu starten
+ist! Zudem ist der aktuelle Dokumentationskopf abzugeben. Die Dateien
+sind als *.zip Ordner (mit cc an den/die Teampratner_in) per E-Mail
+abzugeben. Die Abgabe gehört zu den PVL-Bedingungen und ist
+einzuhalten,
+terminlich wie auch inhaltlich!<br><br></span><span style="font-family: Helvetica,Arial,sans-serif;">Wird eine
+Aufgabe nicht erfolgreich
+bearbeitet,
+gilt&nbsp;die </span><b style="font-family: Helvetica,Arial,sans-serif;">PVL</b><span style="font-family: Helvetica,Arial,sans-serif;">
+als </span><b style="font-family: Helvetica,Arial,sans-serif;">nicht
+bestanden</b><span style="font-family: Helvetica,Arial,sans-serif;">.
+Damit eine Aufgabe als erfolgreich gewertet wird, muß die
+Befragung&nbsp;als erfolgreich gewertet
+werden sowie die Abgabe abgenommen worden sein. <span style="font-weight: bold;">Alle
+gesetzten Termine sind einzuhalten</span>. Dies ist notwendig, da
+sonst
+erhebliche
+zeitliche Verzögerungen stattfinden würden</span><span style="font-family: Helvetica,Arial,sans-serif;">.</span><span style="font-family: Helvetica,Arial,sans-serif;"></span><span style="font-family: Helvetica,Arial,sans-serif;"></span><span style="font-family: Helvetica,Arial,sans-serif;"></span><span style="font-family: Helvetica,Arial,sans-serif;"><span style="font-family: Helvetica,Arial,sans-serif;"></span><br>
+<br><br>
+<br><!-- BEGINN GOWEB WEBCOUNTER -->
+<p></p><center><a href="http://www.webcounter.goweb.de/"><img src="Aufgabe%204_files/12337.GIF" alt="gratis Counter by GOWEB" border="0" vspace="0"></a><br>
+<a href="http://www.webcounter.goweb.de/"><font color="#4c4c4c" size="-2">Gratis Counter by GOWEB</font></a>
+</center><!-- ENDE GOWEB WEBCOUNTER -->
+</span></body></html>

@@ -1,0 +1,8 @@
+- Vater von außen, besser vom neuen Knoten selber?
+- Doppeltrekursion, Einfügen rutner rekursion, Hoeheupdate hoch rekursion. Hoheupdaten wenn man aus insert rauskommt / backtracking? || Parallelrekursion
+- Da arbeiten wo ich stehe (nur!), Vater, lsohn, rsohn
+- Delete wie insert durch Baum gehen
+- Wenn delete Elem gefundenpassiert löschung.
+- delete in delete verwenden (z.b. wenn zu löschendes Elem 2 Söhne hat)
+- leftRotate; den Sohn des Vaters bewegen, dann auch neuenVater bewegen; bei uns OK aber halt zeilentechnisch auseinander
+- leftRotate; nach letzten hoheupdate (nicht unsere methode ist gemeint) wieder nach oben gehen.
